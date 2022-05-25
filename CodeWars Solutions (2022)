@@ -1,17 +1,9 @@
 // CodeWars Solutions
 
-// Even or Odd - Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd" for odd numbers.
+// 1. Use P.R.E.P. when writing Solutions
+// 2. Spend 20 mins then look at Answers, analyze Solutions
+// 3. Create JS file for tracking
+// 4. Push to Github for an Online Repo
 
-// Parameters: Positive, Integers
-// Return: Return Even if divisible by 2, Odd if not divisible by 2
-// Example: 2,4,6 is Even, 1,3,5 is Odd
-// Pseudocode:
-// 1. Create Function
-// 2. Return or Console Log if Positive Integer is divisible by 2 or not: Even or Odd
-// 3. Call Function
 
-function even_Or_Odd(number) {
-  return number %2 === 0 ? 'Even' : 'Odd'
-}
 
-even_Or_Odd (4)
