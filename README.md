@@ -1,9 +1,11 @@
 # CodeWars-Solutions-2022
-I. This Repo is for CodeWars Solutions, utilizing P.R.E.P. technique in resolving the challenges.
+I. INTRO:
+
+This Repo is for CodeWars Solutions, utilizing P.R.E.P. technique in resolving the challenges.
 
 Currently doing 8KYU JS Problems, and eventually transitioning into higher KYUs.
 
-II. P.R.E.P.:
+II. P.R.E.P. TECHNIQUE:
 
 1. P for Parameters - What are the Parameters of the Challenge?
 
