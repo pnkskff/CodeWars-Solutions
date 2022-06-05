@@ -1,4 +1,4 @@
-# CodeWars Solutions 2022
+# CodeWars Solutions (2022)
 
 I. INTRO:
 
