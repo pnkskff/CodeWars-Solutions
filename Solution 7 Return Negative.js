@@ -7,7 +7,8 @@
 // Example: 1 should be turned to -1, -2 is already a Negative, 0 cannot be Negative
 // Pseudocode:
 // 1. Create Function
-// 2. Use -Math.abs to return the Negative version of a Positive Integer
+// 2. Use -Math.abs to return the Negative version of a Positive Integer, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/abs
 // 3. Call Function
 
 function makeNegative(num) {
