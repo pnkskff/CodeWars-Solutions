@@ -11,7 +11,7 @@
 // 3. Call function
 
 function opposite(number) {
-  return (-number);
+  return (-number)
 }
 
 opposite (1)
