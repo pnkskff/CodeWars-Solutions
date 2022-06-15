@@ -10,7 +10,7 @@
 // 2. Create Function
 // 3. Use Math.min to find smallest Integer in Array
 // 4. Use Spread Operator (...) to go through Array when called
-// 3. Call Function
+// 5. Call Function
 
 const arrayOne = [88,1,4]
 
