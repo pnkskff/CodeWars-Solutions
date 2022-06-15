@@ -7,7 +7,8 @@
 // Example: 4 turns to '4'
 // Pseudocode:
 // 1. Create Function
-// 2. Return a Num to a Str
+// 2. Return a Num to a Str, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
 // 3. Call Function
 
 function numberToString(num) {
