@@ -9,7 +9,8 @@
 // 1. Create Function with Parameter of n and s
 // 2. n to be amount of times String is repeated
 // 3. s to be the String
-// 4. Use s.repeat to repeat n (String) X amount of times
+// 4. Use s.repeat to repeat n (String) X amount of times, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
 // 5. Call Function
 
 function repeatStr (n, s) {
