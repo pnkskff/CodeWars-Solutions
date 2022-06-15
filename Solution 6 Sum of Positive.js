@@ -9,7 +9,8 @@
 // 1. Declare an Array
 // 2. Write Function to reduce Array only for Positive Integers
 // 3. Use Ternary to only target Positive Integers
-// 4. Return Sum only of Positive Integers
+// 4. Return Sum only of Positive Integers via Reduce, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce
 // 5. Call Function
 
 const arrayOne = [2, 4, 6, -1, -2, -3]
