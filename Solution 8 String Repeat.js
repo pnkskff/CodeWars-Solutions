@@ -10,7 +10,7 @@
 // 2. n to be amount of times String is repeated
 // 3. s to be the String
 // 4. Use s.repeat to repeat n (String) X amount of times
-// 4. Call Function
+// 5. Call Function
 
 function repeatStr (n, s) {
   return s.repeat(n)
