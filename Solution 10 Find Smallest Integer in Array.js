@@ -8,8 +8,10 @@
 // Pseudocode:
 // 1. Create Array of Integers
 // 2. Create Function
-// 3. Use Math.min to find smallest Integer in Array
-// 4. Use Spread Operator (...) to go through Array when called
+// 3. Use Math.min to find smallest Integer in Array, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min
+// 4. Use Spread Operator (...) to go through Array when called, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 // 5. Call Function
 
 const arrayOne = [88,1,4]
