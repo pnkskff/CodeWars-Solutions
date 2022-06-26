@@ -8,9 +8,9 @@ I. INTRO:
 
   3. Naming Convention will be:
 
-     a. Solution Number Name.js
+     a. Solution/Number/Name.js
      
-     b. Eventually, will add Kyu Level: Solution Number Kyu Name.js
+     b. Eventually, will add Kyu Level: Solution/Number/Kyu/Name.js
 
 II. P.R.E.P. TECHNIQUE:
 
