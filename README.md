@@ -6,6 +6,12 @@ I. INTRO:
 
   2. Currently doing 8KYU JS Problems, and eventually transitioning into higher KYUs.
 
+  3. Naming Convention will be:
+
+     a. Solution Number Name.js
+     
+     b. Eventually, will add Kyu Level: Solution Number Kyu Name.js
+
 II. P.R.E.P. TECHNIQUE:
 
   1. P for Parameters - What are the Parameters of the Challenge?
@@ -36,7 +42,7 @@ III. NOTE:
 
   2. Please use P.R.E.P. when practicing Coding Challenges, as it does build discipline and consistency when thinking through a Challenge!
 
-  3. Also, if you have a more efficient or more understandable way of resolving the Challenge, please Fork and Push, let's build a Repo for all levels of Devs!
+  3. Also, if you have a more efficient or more understandable way of resolving the Challenge: Please Fork and Push, let's build a Repo for all levels of Devs!
 
 IV. FURTHER INFO:
 
