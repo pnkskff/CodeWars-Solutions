@@ -11,6 +11,8 @@ I. INTRO:
      a. Solution/Number/Name.js
      
      b. Eventually, will add Kyu Level: Solution/Number/Kyu/Name.js
+  
+  4. Solutions are not always the best/most efficient, but it works!
 
 II. P.R.E.P. TECHNIQUE:
 
