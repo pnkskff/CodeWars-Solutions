@@ -12,7 +12,7 @@ I. INTRO:
      
      b. Eventually, will add Kyu Level: Solution/Number/Kyu/Name.js
   
-  4. Solutions are not always the best/most efficient, but it works!
+  4. Solutions are not always the best/most efficient, but it works! - "I'm a baddie and I write bad code. /s"
 
 II. P.R.E.P. TECHNIQUE:
 
