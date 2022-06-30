@@ -24,7 +24,7 @@ I. INTRO:
 
         Solution 3 Num to Str.js
      
-        * When Sort logic kicks in, the double digit numbers append to their root.
+        - When Sort logic kicks in, the double digit numbers append to their root number.
   
   4. Solutions are not always the best/most efficient, but it works! - "I'm a baddie and I write bad code. /s"
 
