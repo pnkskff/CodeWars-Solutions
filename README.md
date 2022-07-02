@@ -54,7 +54,11 @@ II. P.R.E.P. TECHNIQUE:
 
 III. NOTE:
 
-  1. The Goal of this Repo is to help Devs build positive habits that will assist them into their Coding journey - Understanding how to get to the answer is as important as knowing the answer itself.
+  1. The Goal of this Repo is to help Devs build positive habits that will assist them into their Coding journey. 
+  
+      - Understanding how to get to the answer is as important as knowing the answer itself.
+      
+      - Please do not hesitate to Google, Ask a Dev friend, etc.
 
   2. Please use P.R.E.P. when practicing Coding Challenges, as it does build discipline and consistency when thinking through a Challenge!
 
