@@ -10,7 +10,7 @@ I. INTRO:
 
      a. Solution/Number/Name.js
      
-     b. Eventually, will add Kyu Level: Solution/Number/Kyu/Name.js
+     b. Eventually, will add Kyu Level: Solution/Number/(Kyu)/Name.js
      
      c. Unfortunately, I'm unable to fix the Sort within the Repo:
      
@@ -66,7 +66,7 @@ III. NOTE:
 
 IV. FURTHER INFO:
 
-  1. Readme last updated on: JUNE 2022
+  1. Readme last updated on: JULY 2022
 
   2. Authors:
 
