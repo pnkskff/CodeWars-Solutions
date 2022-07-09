@@ -12,7 +12,7 @@ I. INTRO:
      
      b. Eventually, will add Kyu Level: Solution/Number/(Kyu)/Name.js
      
-     c. Unfortunately, I'm unable to fix the Sort within the Repo:
+     c. Unfortunately, I am unable to fix the Sort within the Repo:
      
         Solution 19 Basic Math Operations.js
 
