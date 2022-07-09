@@ -58,8 +58,8 @@ III. NOTE:
   
       - Understanding how to get to the answer is as important as knowing the answer itself.
       
-      - Please do not hesitate to Google, Ask a Dev friend, etc.
-
+      - Please do not hesitate to Google, Ask a Dev friend, etc.: Let us learn as a Community!
+      
   2. Please use P.R.E.P. when practicing Coding Challenges, as it does build discipline and consistency when thinking through a Challenge!
 
   3. Also, if you have a more efficient or more understandable way of resolving the Challenge: Please Fork/Document/Push, let's build a Repo for all levels of Devs!
