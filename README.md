@@ -62,7 +62,7 @@ III. NOTE:
       
   2. Please use P.R.E.P. when practicing Coding Challenges, as it does build discipline and consistency when thinking through a Challenge!
 
-  3. Also, if there is a more efficient or more understandable way of resolving the Challenge: Please Fork/Document/Push, let's build a Repo for all levels of Devs!
+  3. Also, if there is a more efficient or more understandable way of resolving the Challenge: Please Fork/Document/Push, let's build a Repo for all levels of Devs!!!
 
 IV. FURTHER INFO:
 
