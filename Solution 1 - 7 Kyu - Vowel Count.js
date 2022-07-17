@@ -9,7 +9,7 @@
 // Pseudocode:
 // 1. Create Function
 // 2. Set let variable to 0, to start count
-// 3. Set const varuiable to Vowels
+// 3. Set const variable to Vowels
 // 4. Use for...of Loop to iterate through String Array, please see below
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of
 // 5. Call Function
