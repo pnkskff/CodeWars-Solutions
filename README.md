@@ -4,7 +4,7 @@ I. INTRO:
 
   1. This Repo is for CodeWars Solutions, utilizing P.R.E.P. technique in resolving the challenges.
 
-  2. Currently working on 8KYU/7KYU JS Problems, and eventually transitioning into higher KYUs.
+  2. Currently working on 8KYU/7KYU JS Problems, eventually transitioning into higher KYUs.
 
   3. Naming Convention will be:
 
@@ -66,7 +66,7 @@ III. NOTE:
 
 IV. FURTHER INFO:
 
-  1. Readme last updated on: JULY 2022
+  1. Readme last updated on: AUGUST 2022
 
   2. Authors:
 
