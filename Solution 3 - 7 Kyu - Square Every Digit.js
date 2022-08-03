@@ -5,7 +5,7 @@
 
 // Parameters: Integers, Array
 // Return: Square every digit from an Array, and Concatenate
-// Example:
+// Example: 99 -> 8181
 // Pseudocode:
 // 1. Create Function
 // 2. Use Number to convert result of Function into a Number, see below
