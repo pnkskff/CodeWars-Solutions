@@ -54,7 +54,7 @@ II. P.R.E.P. TECHNIQUE:
 
 III. NOTE:
 
-  1. The Goal of this Repo is to assist Devs in building consistent habits that will guide them into their Coding journey. 
+  1. The Goal of this Repo is to assist Devs in developing consistent habits that will guide them into their Coding journey. 
   
       - Understanding how to get to the answer is as important as knowing the answer itself.
       
