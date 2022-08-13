@@ -5,8 +5,8 @@
 // Essentially, rearrange the digits to create the highest possible number.
 
 // Parameters: Positive, Integer
-// Return: Array of Integers with Highest Value first
-// Example: [1, 2, 3, 4, 5] -> [5, 4, 3, 2, 1]
+// Return: Order Integers with Highest Value first
+// Example: (1, 2, 3, 4, 5) -> (5, 4, 3, 2, 1)
 // Pseudocode:
 // 1. Create Function
 // 2. Use Number toString() method, to return Integers into a String, see below
