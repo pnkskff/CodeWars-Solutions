@@ -10,11 +10,13 @@
 // 1. Create Function
 // 2. Use Filter method to narrow down Parameters to only the Number, see below
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-// 3. Use typeOf operator to specify that the Filter should only return Number, see below
+// 3. Within Filter, use Arrow Function to specify the type of Value the new Array is expecting, see below
+// https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+// 4. Use typeOf operator to specify that the Filter should only return Number, see below
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
-// 4. Use Strict Equality operator to specify that Parameters should only be equal in type and value to Number, and not String, see below
+// 5. Use Strict Equality operator to specify that Parameters should only be equal in type and value to Number, and not String, see below
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
-// 5. Call Function
+// 6. Call Function
 
 // NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
 
