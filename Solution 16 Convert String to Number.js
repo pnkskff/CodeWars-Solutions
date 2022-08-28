@@ -12,7 +12,7 @@
 // 3. https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
 // 4. Call Function
 
-const stringToNumber = function(str){
+const stringToNumber = function(str) {
   return Number(str)
 }
 
