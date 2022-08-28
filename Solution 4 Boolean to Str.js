@@ -11,7 +11,7 @@
 // 2. Return Bool (True or False) as String (Yes or No)
 // 3. Call Function
 
-function boolToWord( bool ){
+function boolToWord(bool) {
   return bool ? 'Yes' : 'No'
 }
 
