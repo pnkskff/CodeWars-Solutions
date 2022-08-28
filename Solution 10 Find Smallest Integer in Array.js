@@ -16,8 +16,8 @@
 
 const arrayOne = [88,1,4]
 
-function findSmallestInt () {
+function findSmallestInt() {
   return Math.min (...arrayOne)
 }
 
-findSmallestInt (arrayOne)
+findSmallestInt(arrayOne)
