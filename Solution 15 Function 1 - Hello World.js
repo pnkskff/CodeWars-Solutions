@@ -14,8 +14,8 @@
 
 const words = ('hello world!')
 
-function greet () {
+function greet() {
   return words
 }
 
-greet (words)
+greet(words)
