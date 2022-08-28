@@ -23,7 +23,8 @@
 
 function disemvowel(str) {
   const vowels = ['a','e','i','o','u']
+  
   return str.split('').filter(disemvowel => vowels.indexOf(disemvowel.toLowerCase()) == -1).join('')
 }
 
-disemvowel ('This website is for losers LOL!')
+disemvowel('This website is for losers LOL!')
