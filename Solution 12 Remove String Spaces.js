@@ -15,4 +15,4 @@ function noSpace(string) {
   return string.split(' ').join('')
 }
 
-noSpace ('Hello World')
+noSpace('Hello World')
