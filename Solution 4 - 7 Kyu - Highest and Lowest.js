@@ -18,7 +18,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 // 6. Call Function
 
-function highAndLow(numbers){
+function highAndLow(numbers) {
   numbers = numbers.split(' ')
   return Math.max(...numbers) +' '+ Math.min(...numbers)
 }
