@@ -27,6 +27,7 @@
 
 function xO(string) {
     let word = string.toLowerCase().split('')
+    
     return word.filter(xX => xX === 'x').length === word.filter(oO => oO === 'o').length
 }
 
