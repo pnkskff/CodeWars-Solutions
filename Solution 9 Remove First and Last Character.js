@@ -11,7 +11,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/slice
 // 3. Call Function
 
-function removeChar(str){
+function removeChar(str) {
   return str.slice (1,-1)
 }
 
