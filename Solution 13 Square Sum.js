@@ -15,4 +15,4 @@ function squareSum(num) {
   return num.reduce ( (acc,c) => acc += c ** 2, 0 )
 }
 
-squareSum ([1,2,3])
+squareSum([1,2,3])
