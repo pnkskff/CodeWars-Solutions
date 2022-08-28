@@ -19,7 +19,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 // 6. Call Function
 
-function descendingOrder(num){
+function descendingOrder(num) {
   return Number(num.toString().split('').sort( (a,b) => b - a ).join(''))
 }
 
