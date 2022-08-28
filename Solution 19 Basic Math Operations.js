@@ -18,7 +18,7 @@
 // 3. https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math
 // 4. Call Function
 
-function basicOp (operation, value1, value2) {
+function basicOp(operation, value1, value2) {
   if (operation == '+') {
      return value1 + value2
   }
@@ -33,8 +33,8 @@ function basicOp (operation, value1, value2) {
   }
 }
 
-basicOp ('+', 1, 1)
-basicOp ('-', 2, 1)
-basicOp ('*', 3, 1)
-basicOp ('/', 8, 2)
+basicOp('+', 1, 1)
+basicOp('-', 2, 1)
+basicOp('*', 3, 1)
+basicOp('/', 8, 2)
 // Comment out other Calls when testing Function
