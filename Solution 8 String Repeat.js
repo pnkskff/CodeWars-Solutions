@@ -13,8 +13,8 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat
 // 5. Call Function
 
-function repeatStr (n, s) {
+function repeatStr(n, s) {
   return s.repeat(n)
 }
 
-repeatStr (21, 'Hello')
+repeatStr(21, 'Hello')
