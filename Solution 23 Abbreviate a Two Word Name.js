@@ -20,7 +20,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 // 6. Call Function
 
-function abbrevName(name){
+function abbrevName(name) {
     return name.split(' ').map(name => name[0].toUpperCase()).join('.')
 }
 
