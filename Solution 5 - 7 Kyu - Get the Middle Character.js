@@ -22,6 +22,7 @@
 
 function getMiddle(character) {
   let middle = Math.floor(character.length/2)
+  
   if (character.length % 2 === 0)
     return character[middle-1] + character[middle]
   else {
