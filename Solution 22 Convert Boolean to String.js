@@ -12,7 +12,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/toString
 // 3. Call Function
 
-function booleanToString(b){
+function booleanToString(b) {
   return b.toString()
 }
 
