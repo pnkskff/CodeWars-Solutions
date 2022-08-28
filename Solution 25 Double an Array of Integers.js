@@ -14,7 +14,7 @@
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Multiplication
 // 4. Call Function
 
-function maps(x){
+function maps(x) {
   return x.map(x => x*2)
 }
 
