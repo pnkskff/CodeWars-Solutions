@@ -1,6 +1,6 @@
 // CodeWars Solutions
 
-// . 7 Kyu - 
+// number. Solution Number - 7 Kyu - Name 
 // 
 
 // Parameters: 
