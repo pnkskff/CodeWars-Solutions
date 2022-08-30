@@ -1,3 +1,8 @@
+// AUGUST 2022
+// Author: pnkskff
+// This Doc is for Solutions in the Staging Process.
+// Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
+
 // CodeWars Solutions
 
 // 13. Solution 13 - 7 Kyu - Mumbling
