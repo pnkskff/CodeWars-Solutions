@@ -1,7 +1,6 @@
 // Solutions Template
 
 // I. FORMAT: 
-
 //    CodeWars Solutions
 
 //    Number. Solution Number - Kata Kyu - Kata Name 
