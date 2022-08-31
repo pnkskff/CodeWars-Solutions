@@ -28,11 +28,11 @@
 //    INSERT CODE
 
 // II. NOTE:
-//     1. Format of Number and Solution Number is based on Numbering System within this Repo.
+//     1. Format of Number and Solution Number is based on Numbering System within this Repo:
+//        https://github.com/pnkskff/CodeWars-Solutions
 
 // III. FURTHER INFO:
-//      1. This Doc is a Template for CodeWars Solutions on this Repo:
-//         https://github.com/pnkskff/CodeWars-Solutions
+//      1. This Doc is a Template for CodeWars Solutions on this Repo.
 
 //      2. Solutions Template last updated on: AUGUST 2022
 
