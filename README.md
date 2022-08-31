@@ -18,15 +18,15 @@ I. INTRO:
    
       c. Unfortunately, I am unable to fix the Numerical Sort within the Repo:
 
-         Solution 19 Basic Math Operations.js
+        Solution 19 Basic Math Operations.js
 
-         Solution 2 Opposite Number.js
+        Solution 2 Opposite Number.js
 
-         Solution 20 Returning Strings.js
+        Solution 20 Returning Strings.js
 
-         Solution 21 Convert Number to Reversed Array of Digits.js
+        Solution 21 Convert Number to Reversed Array of Digits.js
 
-         Solution 3 Num to Str.js
+        Solution 3 Num to Str.js
 
          - When Sort logic kicks in, the double digit numbers append to their root number.
 
