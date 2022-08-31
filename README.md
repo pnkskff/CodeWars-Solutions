@@ -75,7 +75,7 @@ III. NOTE:
     b. Solutions Template.js
     
        - Contains Format applicable for .JS files within the Repo.
-       
+    
     c. Staging Doc.js 
     
        - Contains partially completed Kata Challenges.
