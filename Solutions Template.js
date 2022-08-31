@@ -31,10 +31,10 @@
 //        https://github.com/pnkskff/CodeWars-Solutions
 
 // III. FURTHER INFO:
-//      1. This Doc is a Template for CodeWars Solutions on this Repo.
-
-//      2. CodeWars Solutions Repo URL: 
+//      1. CodeWars Solutions Repo URL: 
 //         https://github.com/pnkskff/CodeWars-Solutions
+
+//      2. This Doc is a Template for CodeWars Solutions on this Repo.
 
 //      3. Solutions Template last updated on: AUGUST 2022
 
