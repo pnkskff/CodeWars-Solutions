@@ -20,6 +20,9 @@
 
 // If applicable, insert Solution that works with CodeWars here.
 
-// Last updated on: AUGUST 2022
-// Author: pnkskff
 // Note: This Doc is a Template for CodeWars Solutions on this Repo.
+// Solutions Template last updated on: AUGUST 2022
+// Author: pnkskff
+//         https://github.com/pnkskff
+//         https://drincapdev.netlify.app/
+//         https://drincapapps.netlify.app/
