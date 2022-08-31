@@ -1,8 +1,10 @@
-# CodeWars Solutions (2022 - )
+# CodeWars Solutions
 
 I. INTRO:
 
   1. This Repo is for CodeWars Solutions, utilizing P.R.E.P. technique in resolving the challenges.
+  
+     a. CodeWarrior Status started as of 2022! 
 
   2. Currently working on 8KYU/7KYU Javascript Challenges, eventually transitioning into higher KYUs.
 
