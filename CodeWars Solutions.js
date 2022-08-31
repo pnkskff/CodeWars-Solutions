@@ -7,7 +7,7 @@
 // II. INSTRUCTIONS:
 //     1. Use P.R.E.P. when writing Solutions.
 //     2. Insert MDN doc for Functions, etc.
-//     3.  Spend 20 mins then look at Answers, analyze Solutions.
+//     3. Spend 20 mins then look at Answers, analyze Solutions.
 //     4. Create JS file for tracking.
 //     5. Push to Github for an Online Repo.
 
