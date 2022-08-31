@@ -6,7 +6,7 @@
 
 // II. INSTRUCTIONS:
 //     1. Use P.R.E.P. when writing Solutions.
-//     2. Insert MDN doc for Functions, etc.
+//     2. Insert MDN/3rd Party source url for documentation on: Definitions, Properties, Methods, etc.
 //     3. Spend 20 mins then look at Answers, analyze Solutions.
 //     4. Create JS file for tracking.
 //     5. Push to GitHub for an Online Repo.
