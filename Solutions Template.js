@@ -1,28 +1,39 @@
-// CodeWars Solutions
+// Solutions Template
 
-// number. Solution Number - 7 Kyu - Name 
-// Story
+// 1. FORMAT: 
 
-// Parameters: 
-// Return: 
-// Example: 
-// Pseudocode:
-// 1. Create Function
-// 2. 
-// 3. 
-// 4. 
-// 5. 
-// 6. 
-// 7. 
-// 8. Call Function
+//    CodeWars Solutions
 
-// Insert working Solution here, regardless if it passes CodeWars Tests or not.
+//    Number. Solution Number - Kata Kyu - Kata Name 
+//    Kata Story
 
-// If applicable, insert Solution that works with CodeWars here.
+//    a. Parameters: 
+//    b. Return: 
+//    c. Example: 
+//    d. Pseudocode:
+//       1. Create Function
+//       Insert documentation URL if applicable.
+//       2. 
+//       3. 
+//       4. 
+//       5. 
+//       6. 
+//       7. 
+//       8. Call Function
 
-// Note: This Doc is a Template for CodeWars Solutions on this Repo.
-// Solutions Template last updated on: AUGUST 2022
-// Author: pnkskff
-//         https://github.com/pnkskff
-//         https://drincapdev.netlify.app/
-//         https://drincapapps.netlify.app/
+//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
+//    INSERT CODE
+
+//    If applicable, insert Solution that works with CodeWars below:
+//    INSERT CODE
+
+// 2. NOTE:
+//    a. Format of Number and Solution Number is based on Numbering System within this Repo.
+
+// 3. FURTHER INFO:
+//    a. This Doc is a Template for CodeWars Solutions on this Repo.
+//    b. Solutions Template last updated on: AUGUST 2022
+//    c. Author: pnkskff
+//               https://github.com/pnkskff
+//               https://drincapdev.netlify.app/
+//               https://drincapapps.netlify.app/
