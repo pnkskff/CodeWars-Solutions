@@ -38,7 +38,11 @@ accum('Kanye')
 
 // ---------------------
 
-// Last updated on: AUGUST 2022
+// Note: This Doc is for Solutions in the Staging process.
+//       Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
+// Staging Doc last updated on: AUGUST 2022
 // Author: pnkskff
-// This Doc is for Solutions in the Staging process.
-// Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
+//         https://github.com/pnkskff
+//         https://drincapdev.netlify.app/
+//         https://drincapapps.netlify.app/
+
