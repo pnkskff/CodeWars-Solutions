@@ -69,6 +69,7 @@ III. NOTE:
   4. Here are further details regarding auxilliary docs within the Repo:
   
       a. Instructions.js
+         
          https://github.com/pnkskff/CodeWars-Solutions/blob/main/Instructions.js
          
         - Contains CodeWars 8 Kyu and 7 Kyu urls.
@@ -76,11 +77,13 @@ III. NOTE:
         - Quick Instructions on completing the Kata Challenges.
     
       b. Solutions Template.js
+      
          https://github.com/pnkskff/CodeWars-Solutions/blob/main/Solutions%20Template.js
     
         - Contains Format applicable for .JS files within the Repo.
     
       c. Staging Doc.js 
+         
          https://github.com/pnkskff/CodeWars-Solutions/blob/main/Staging%20Doc.js
          
         - Contains partially completed Kata Challenges.
