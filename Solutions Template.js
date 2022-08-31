@@ -37,6 +37,6 @@
 //      2. Solutions Template last updated on: AUGUST 2022
 
 //      3. Author: pnkskff
-//               https://github.com/pnkskff
-//               https://drincapdev.netlify.app/
-//               https://drincapapps.netlify.app/
+//                 https://github.com/pnkskff
+//                 https://drincapdev.netlify.app/
+//                 https://drincapapps.netlify.app/
