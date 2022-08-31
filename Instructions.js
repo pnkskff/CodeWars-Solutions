@@ -21,10 +21,10 @@
 //        a. https://github.com/pnkskff/CodeWars-Solutions
 
 // III. FURTHER INFO:
-//      1. This Doc contains instructions on completing Kata Challenges.
-
-//      2. CodeWars Solutions Repo URL: 
+//      1. CodeWars Solutions Repo URL: 
 //         https://github.com/pnkskff/CodeWars-Solutions
+
+//      2. This Doc contains instructions on completing Kata Challenges.
 
 //      3. Instructions last updated on: AUGUST 2022
 
