@@ -35,16 +35,21 @@ I. INTRO:
 II. P.R.E.P. TECHNIQUE:
 
    1. P for Parameters - What are the Parameters of the Challenge?
+      
       ex: String or Integers, or both?
 
    2. R for Return - How is the result expected to show?
+      
       ex: Return, Console Log, Alert?
 
    3. E for Example - Provide an example of the Parameters and the expected Return.
+      
       ex: An Integer adding to another Integer, Console Log the Sum.
 
    4. P for Pseudocode - Type out the step-by-step steps of solving the challenge.
+      
       ex:
+      
       a. Write a Function
       b. Add A to B
       c. Console Log Sum
