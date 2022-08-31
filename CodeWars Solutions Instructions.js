@@ -1,4 +1,4 @@
-// CodeWars Solutions
+// CodeWars Solutions Instructions
 
 // I. URL: 
 //    1. 8 Kyu JS
