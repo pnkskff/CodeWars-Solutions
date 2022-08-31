@@ -68,7 +68,7 @@ III. NOTE:
   
   4. Here are further details regarding auxilliary docs within the Repo:
   
-      a. CodeWars Solutions (2022) 
+      a. CodeWars Solutions.js
     
         - Contains CodeWars 8 Kyu and 7 Kyu urls.
        
