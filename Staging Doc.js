@@ -3,6 +3,10 @@
 // I. KATA SOLUTIONS:
 
 //    1. 7 Kyu Mumbling Solution
+//    2. STATUS:
+//       a. Submitted to CodeWars.
+//       b. Incomplete Pseudocode.
+//       c. Not pushed to GitHub.
 
 //    CodeWars Solutions
 
