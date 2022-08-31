@@ -63,7 +63,23 @@ III. NOTE:
   2. Please use P.R.E.P. when practicing Coding Challenges, as it does build discipline and consistency when thinking through a Challenge!
 
   3. Also, if there is a more efficient or more understandable way of resolving the Challenge: Please Fork/Document/Push, let's build a Repo for all levels of Devs!!!
-
+  
+  4. Here are further details regarding auxilliary docs within the Repo:
+  
+    a. CodeWars Solutions (2022) 
+    
+       - Contains CodeWars 8 Kyu and 7 Kyu urls.
+       
+       - Quick Instructions on completing the Kata Challenges.
+    
+    b. Solutions Template.js
+    
+       - Contains Format applicable for .JS files within the Repo.
+       
+    c. Staging Doc.js 
+    
+       - Contains partially completed Kata Challenges.
+    
 IV. FURTHER INFO:
 
   1. Readme last updated on: AUGUST 2022
