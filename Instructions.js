@@ -9,7 +9,7 @@
 // II. INSTRUCTIONS:
 //     1. Within Kata in CodeWars, use P.R.E.P. method when troubleshooting and writing Solutions.
 //        a. See ReadMe for further information:
-//           https://github.com/pnkskff/CodeWars-Solutions/blob/main/README.js
+//           https://github.com/pnkskff/CodeWars-Solutions/blob/main/README.md
 
 //     2. Spend 20 mins on completing Kata, look at Answers if cannot complete, then analyze Solutions to internalize knowledge.
 
