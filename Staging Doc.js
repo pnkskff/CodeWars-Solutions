@@ -50,11 +50,11 @@ function accum(letters) {
 accum('Kanye')
 
 // II. FURTHER INFO:
-//     1. This Doc is for Solutions in the Staging process.
-//        Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
-
-//     2. CodeWars Solutions Repo URL: 
+//     1. CodeWars Solutions Repo URL: 
 //        https://github.com/pnkskff/CodeWars-Solutions
+
+//     2. This Doc is for Solutions in the Staging process.
+//        Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
 
 //     3. Staging Doc last updated on: AUGUST 2022
 
