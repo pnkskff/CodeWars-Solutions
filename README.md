@@ -81,9 +81,10 @@ III. NOTE:
       
       - Contains Format applicable for .JS files within the Repo.
 
-c. Staging Doc.js
+   c. Staging Doc.js
 
    URL: https://github.com/pnkskff/CodeWars-Solutions/blob/main/Staging%20Doc.js
+   
       - Contains partially completed Kata Challenges.
 
 IV. FURTHER INFO:
