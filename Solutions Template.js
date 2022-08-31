@@ -35,7 +35,10 @@
 
 //      2. Solutions Template last updated on: AUGUST 2022
 
-//      3. Author: pnkskff
+//      3. Repo URL: 
+//         https://github.com/pnkskff/CodeWars-Solutions
+
+//      4. Author: pnkskff
 //                 https://github.com/pnkskff
 //                 https://drincapdev.netlify.app/
 //                 https://drincapapps.netlify.app/
