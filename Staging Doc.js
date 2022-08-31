@@ -53,10 +53,10 @@ accum('Kanye')
 //     1. This Doc is for Solutions in the Staging process.
 //        Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
 
-//     2. Staging Doc last updated on: AUGUST 2022
-
-//     3. Repo URL: 
+//     2. CodeWars Solutions Repo URL: 
 //        https://github.com/pnkskff/CodeWars-Solutions
+
+//     3. Staging Doc last updated on: AUGUST 2022
 
 //     4. Author: pnkskff
 //                https://github.com/pnkskff
