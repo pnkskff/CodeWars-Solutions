@@ -84,8 +84,7 @@ III. NOTE:
 c. Staging Doc.js
 
    URL: https://github.com/pnkskff/CodeWars-Solutions/blob/main/Staging%20Doc.js
-
-- Contains partially completed Kata Challenges.
+      - Contains partially completed Kata Challenges.
 
 IV. FURTHER INFO:
 
