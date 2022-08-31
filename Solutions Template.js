@@ -19,3 +19,7 @@
 // 6. 
 // 7. 
 // 8. Call Function
+
+// Insert working Solution here, regardless if it passes CodeWars Tests or not.
+
+// If applicable, insert Solution that works with CodeWars here.
