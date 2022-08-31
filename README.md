@@ -51,7 +51,9 @@ II. P.R.E.P. TECHNIQUE:
       ex:
       
       a. Write a Function
+      
       b. Add A to B
+      
       c. Console Log Sum
 
 III. NOTE:
