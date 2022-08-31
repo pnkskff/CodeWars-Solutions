@@ -5,7 +5,7 @@
 //    1. 7 Kyu Mumbling Solution
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Pseudocode.
+//       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 
 //    CodeWars Solutions
