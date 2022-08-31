@@ -1,8 +1,8 @@
 // Staging Doc
 
-// 1. KATA SOLUTIONS:
+// I. KATA SOLUTIONS:
 
-//    a. 7 Kyu Mumbling Solution
+//    1. 7 Kyu Mumbling Solution
 
 //    CodeWars Solutions
 
@@ -42,11 +42,11 @@ function accum(letters) {
 
 accum('Kanye')
 
-// 2. FURTHER INFO:
-//    a. This Doc is for Solutions in the Staging process.
+// II. FURTHER INFO:
+//    1. This Doc is for Solutions in the Staging process.
 //       Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
-//    b. Staging Doc last updated on: AUGUST 2022
-//    c. Author: pnkskff
+//    2. Staging Doc last updated on: AUGUST 2022
+//    3. Author: pnkskff
 //               https://github.com/pnkskff
 //               https://drincapdev.netlify.app/
 //               https://drincapapps.netlify.app/
