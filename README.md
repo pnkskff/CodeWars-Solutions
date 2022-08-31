@@ -66,19 +66,19 @@ III. NOTE:
   
   4. Here are further details regarding auxilliary docs within the Repo:
   
-    a. CodeWars Solutions (2022) 
+      a. CodeWars Solutions (2022) 
     
-       - Contains CodeWars 8 Kyu and 7 Kyu urls.
+        - Contains CodeWars 8 Kyu and 7 Kyu urls.
        
-       - Quick Instructions on completing the Kata Challenges.
+        - Quick Instructions on completing the Kata Challenges.
     
-    b. Solutions Template.js
+      b. Solutions Template.js
     
-       - Contains Format applicable for .JS files within the Repo.
+        - Contains Format applicable for .JS files within the Repo.
     
-    c. Staging Doc.js 
+      c. Staging Doc.js 
     
-       - Contains partially completed Kata Challenges.
+        - Contains partially completed Kata Challenges.
     
 IV. FURTHER INFO:
 
