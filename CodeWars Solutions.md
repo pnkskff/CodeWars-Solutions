@@ -11,6 +11,10 @@
 // 4. Create JS file for tracking.
 // 5. Push to Github for an Online Repo.
 
-// Last updated on: AUGUST 2022
+// Note: This Doc contains instructions on completing Kata Challenges.
+// CodeWars Solutions last updated on: AUGUST 2022
 // Author: pnkskff
-// This Doc contains instructions on completing Kata Challenges.
+//         https://github.com/pnkskff
+//         https://drincapdev.netlify.app/
+//         https://drincapapps.netlify.app/
+
