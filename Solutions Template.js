@@ -1,11 +1,11 @@
 // Solutions Template
 
-// 1. FORMAT: 
+// I. FORMAT: 
 
-//    CodeWars Solutions
+//    1. CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    2. Number. Solution Number - Kata Kyu - Kata Name 
+//    3. Kata Story
 
 //    a. Parameters: 
 //    b. Return: 
@@ -22,18 +22,18 @@
 //       8. Call Function
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    INSERT CODE
+//    4. INSERT CODE
 
 //    If applicable, insert Solution that works with CodeWars below:
-//    INSERT CODE
+//    5. INSERT CODE
 
-// 2. NOTE:
-//    a. Format of Number and Solution Number is based on Numbering System within this Repo.
+// II. NOTE:
+//    1. Format of Number and Solution Number is based on Numbering System within this Repo.
 
-// 3. FURTHER INFO:
-//    a. This Doc is a Template for CodeWars Solutions on this Repo.
-//    b. Solutions Template last updated on: AUGUST 2022
-//    c. Author: pnkskff
+// III. FURTHER INFO:
+//    1. This Doc is a Template for CodeWars Solutions on this Repo.
+//    2. Solutions Template last updated on: AUGUST 2022
+//    3. Author: pnkskff
 //               https://github.com/pnkskff
 //               https://drincapdev.netlify.app/
 //               https://drincapapps.netlify.app/
