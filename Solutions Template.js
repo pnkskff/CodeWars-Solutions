@@ -1,7 +1,7 @@
 // CodeWars Solutions
 
 // number. Solution Number - 7 Kyu - Name 
-// 
+// Story
 
 // Parameters: 
 // Return: 
