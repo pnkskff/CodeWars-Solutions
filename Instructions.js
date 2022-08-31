@@ -7,21 +7,17 @@
 //       https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&tags=Fundamentals&beta=false&order_by=total_completed%20desc
 
 // II. INSTRUCTIONS:
-//     1. Use P.R.E.P. method when troubleshooting and writing Solutions.
+//     1. Within Kata in CodeWars, use P.R.E.P. method when troubleshooting and writing Solutions.
 //        a. See ReadMe for further information:
 //           https://github.com/pnkskff/CodeWars-Solutions/blob/main/README.md
 
 //     2. Spend 20 mins on completing Kata, look at Answers if cannot complete, then analyze Solutions to internalize knowledge.
+
+//     3. Create JS file for tracking of completed Kata via Text Editor of choice.
 //        a. See Solutions Template for further information:
 //           https://github.com/pnkskff/CodeWars-Solutions/blob/main/Solutions%20Template.js
 
-//     3. Create JS file for tracking via Text Editor of choice.
-
-//     4. Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
-//        a. See Solutions Template for further information:
-//           https://github.com/pnkskff/CodeWars-Solutions/blob/main/Solutions%20Template.js
-
-//     5. Push to GitHub into an Online Repo.
+//     4. Push to GitHub into an Online Repo.
 
 // III. FURTHER INFO:
 //      1. CodeWars Solutions Repo URL: 
