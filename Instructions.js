@@ -11,11 +11,15 @@
 //        a. See ReadMe for further information:
 //           https://github.com/pnkskff/CodeWars-Solutions/blob/main/README.md
 
-//     2. Insert MDN/3rd Party source url for documentation on: Definitions, Properties, Methods, etc.
+//     2. Spend 20 mins on completing Kata, look at Answers if cannot complete, then analyze Solutions to internalize knowledge.
+//        a. See Solutions Template for further information:
+//           https://github.com/pnkskff/CodeWars-Solutions/blob/main/Solutions%20Template.js
 
-//     3. Spend 20 mins on completing Kata, look at Answers if cannot complete, then analyze Solutions to internalize knowledge.
+//     3. Create JS file for tracking via Text Editor of choice.
 
-//     4. Create JS file for tracking via Text Editor of choice.
+//     4. Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//        a. See Solutions Template for further information:
+//           https://github.com/pnkskff/CodeWars-Solutions/blob/main/Solutions%20Template.js
 
 //     5. Push to GitHub into an Online Repo.
 
