@@ -35,7 +35,7 @@ I. INTRO:
 
 II. P.R.E.P. TECHNIQUE:
 
-    1. P for Parameters - What are the Parameters of the Challenge?
+      1. P for Parameters - What are the Parameters of the Challenge?
 
        ex: String or Integers, or both?
 
