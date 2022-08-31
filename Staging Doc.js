@@ -1,34 +1,32 @@
-// CodeWars Solutions
+// Staging Doc
 
-// 13. Solution 13 - 7 Kyu - Mumbling
-// This time no story, no theory. 
-// The examples below show you how to write function accum:
-// accum("abcd") -> "A-Bb-Ccc-Dddd"
-// accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
-// accum("cwAt") -> "C-Ww-Aaa-Tttt"
+// 1. KATA SOLUTIONS:
 
-// Parameters: String Only
-// Return: Return accum results
-// Example: ('abcd') -> 'A-Bb-Ccc-Dddd'
-// Pseudocode:
-// 1. Create Function
-// 2. 
-// 3. 
-// 4. 
-// 5. 
-// 6. 
-// 7. 
-// 8. Call Function
+//    a. 7 Kyu Mumbling Solution
 
-// Primary Solution:
+//    CodeWars Solutions
 
-function accum(letters) {
-    return [...letters].map( (char, index) => (char.toUpperCase() + char.toLowerCase().repeat(index)) ).join('-')
-  }
+//    13. Solution 13 - 7 Kyu - Mumbling
+//    This time no story, no theory. 
+//    The examples below show you how to write function accum:
+//    accum("abcd") -> "A-Bb-Ccc-Dddd"
+//    accum("RqaEzty") -> "R-Qq-Aaa-Eeee-Zzzzz-Tttttt-Yyyyyyy"
+//    accum("cwAt") -> "C-Ww-Aaa-Tttt"
 
-accum('Kanye')
+//    Parameters: String Only
+//    Return: Return accum results
+//    Example: ('abcd') -> 'A-Bb-Ccc-Dddd'
+//    Pseudocode:
+//    1. Create Function
+//    2. 
+//    3.
+//    4. 
+//    5. 
+//    6. 
+//    7. 
+//    8. Call Function
 
-// Alternate Solution:
+//    Primary Solution:
 
 function accum(letters) {
     return letters.split('').map( (firstChar, secondChar) => (firstChar.toUpperCase() + secondChar.toLowerCase().repeat(secondChar)) ).join('-')
@@ -36,13 +34,19 @@ function accum(letters) {
 
 accum('Kanye')
 
-// ---------------------
+//    Alternate Solution:
 
-// Note: This Doc is for Solutions in the Staging process.
+function accum(letters) {
+    return [...letters].map( (char, index) => (char.toUpperCase() + char.toLowerCase().repeat(index)) ).join('-')
+  }
+
+accum('Kanye')
+
+// 2. FURTHER INFO:
+//    a. This Doc is for Solutions in the Staging process.
 //       Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
-// Staging Doc last updated on: AUGUST 2022
-// Author: pnkskff
-//         https://github.com/pnkskff
-//         https://drincapdev.netlify.app/
-//         https://drincapapps.netlify.app/
-
+//    b. Staging Doc last updated on: AUGUST 2022
+//    c. Author: pnkskff
+//               https://github.com/pnkskff
+//               https://drincapdev.netlify.app/
+//               https://drincapapps.netlify.app/
