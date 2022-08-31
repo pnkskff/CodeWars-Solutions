@@ -28,7 +28,7 @@
 //    INSERT CODE
 
 // II. NOTE:
-//    1. Format of Number and Solution Number is based on Numbering System within this Repo.
+//     1. Format of Number and Solution Number is based on Numbering System within this Repo.
 
 // III. FURTHER INFO:
 //      1. This Doc is a Template for CodeWars Solutions on this Repo.
