@@ -17,8 +17,7 @@
 
 //     4. Create JS file for tracking via Text Editor of choice.
 
-//     5. Push to GitHub into an Online Repo:
-//        a. https://github.com/pnkskff/CodeWars-Solutions
+//     5. Push to GitHub into an Online Repo.
 
 // III. FURTHER INFO:
 //      1. CodeWars Solutions Repo URL: 
