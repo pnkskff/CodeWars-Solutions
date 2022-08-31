@@ -68,8 +68,8 @@ III. NOTE:
   
   4. Here are further details regarding auxilliary docs within the Repo:
   
-      a. CodeWars Solutions.js
-         https://github.com/pnkskff/CodeWars-Solutions/blob/main/CodeWars%20Solutions%20Instructions.js
+      a. Instructions.js
+         https://github.com/pnkskff/CodeWars-Solutions/blob/main/Instructions.js
          
         - Contains CodeWars 8 Kyu and 7 Kyu urls.
        
