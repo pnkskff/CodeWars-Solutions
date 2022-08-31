@@ -22,7 +22,9 @@
 
 // III. FURTHER INFO:
 //      1. This Doc contains instructions on completing Kata Challenges.
+
 //      2. CodeWars Solutions last updated on: AUGUST 2022
+
 //      3. Author: pnkskff
 //                 https://github.com/pnkskff
 //                 https://drincapdev.netlify.app/
