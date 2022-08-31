@@ -9,7 +9,7 @@
 //     2. Insert MDN doc for Functions, etc.
 //     3. Spend 20 mins then look at Answers, analyze Solutions.
 //     4. Create JS file for tracking.
-//     5. Push to Github for an Online Repo.
+//     5. Push to GitHub for an Online Repo.
 
 // III. FURTHER INFO:
 //      1. This Doc contains instructions on completing Kata Challenges.
