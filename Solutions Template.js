@@ -31,8 +31,11 @@
 //     1. Format of Number and Solution Number is based on Numbering System within this Repo.
 
 // III. FURTHER INFO:
-//      1. This Doc is a Template for CodeWars Solutions on this Repo.
+//      1. This Doc is a Template for CodeWars Solutions on this Repo:
+//         https://github.com/pnkskff/CodeWars-Solutions
+
 //      2. Solutions Template last updated on: AUGUST 2022
+
 //      3. Author: pnkskff
 //               https://github.com/pnkskff
 //               https://drincapdev.netlify.app/
