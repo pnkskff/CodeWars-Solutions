@@ -6,8 +6,7 @@ I. INTRO:
       
       a. CodeWarrior Status started as of 2022! 
       
-      b. URL: 
-      https://github.com/pnkskff/CodeWars-Solutions
+      b. URL: https://github.com/pnkskff/CodeWars-Solutions
 
    2. Currently working on 8KYU/7KYU Javascript Challenges, eventually transitioning into higher KYUs.
 
