@@ -70,7 +70,7 @@ III. NOTE:
   
       a. Instructions.js
          
-         https://github.com/pnkskff/CodeWars-Solutions/blob/main/Instructions.js
+        URL: https://github.com/pnkskff/CodeWars-Solutions/blob/main/Instructions.js
          
         - Contains CodeWars 8 Kyu and 7 Kyu urls.
        
