@@ -2,6 +2,8 @@
 
 // I. KATA SOLUTIONS:
 
+// ------------------------------
+
 //    1. KATA:
 //       a. 7 Kyu Mumbling Solution
 
@@ -48,6 +50,42 @@ function accum(letters) {
   }
 
 accum('Kanye')
+
+// ------------------------------
+
+//    1. KATA:
+//       a. 7 Kyu Complementary DNA
+
+//    2. STATUS:
+//       a. Not submitted to CodeWars.
+//       b. Incomplete Documentation.
+//       c. Not pushed to GitHub.
+
+//    3. SOLUTION:
+//    CodeWars Solutions
+
+//    14. Solution 14 - 7 Kyu - Complementary DNA
+//    
+
+//    Parameters: 
+//    Return: 
+//    Example: 
+//    Pseudocode:
+//    1. Create Function
+//    2. 
+//    3.
+//    4. 
+//    5. 
+//    6. 
+//    7. 
+//    8. Call Function
+
+//    Primary Solution:
+
+
+//    Alternate Solution:
+
+// ------------------------------
 
 // II. FURTHER INFO:
 
