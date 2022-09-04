@@ -57,7 +57,7 @@ accum('Kanye')
 //       a. 7 Kyu Complementary DNA
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 
@@ -85,7 +85,7 @@ accum('Kanye')
 
 //    Primary Solution:
 
-// NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
+// NOTE: Submitting this Solution to CodeWars results in a Fail, even if Code runs in Console:
 
 function dnaStrand([dnaString]) {
     
@@ -100,6 +100,14 @@ function dnaStrand([dnaString]) {
 }
 
 dnaStrand(['GATTACA'])
+
+// TROUBLESHOOTING:
+
+// 1. dnaStrand should be DNAStrand
+// 2. Remove [] within (dnaString)
+// 2. () { should be (){
+// 3. Last Pairing in dnaPairs should also have ,
+// 4. Making these updates allow the Solution above to Pass within Codewars
 
 //    Alternate Solution:
 
