@@ -85,13 +85,38 @@ accum('Kanye')
 
 //    Primary Solution:
 
-function dnaStrand(dna){
-    a
+// NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
+
+function dnaStrand([dnaString]) {
+    
+    const dnaPairs = {
+    'G' : 'C',
+    'A' : 'T',
+    'T' : 'A',
+    'C' : 'G'
+    }
+    
+    return dnaString.split('').map( x => dnaPairs[x] ).join('')
 }
 
-dnaStrand('GATT')
+dnaStrand(['GATTACA'])
 
 //    Alternate Solution:
+
+// CodeWars Solution that works:
+
+function DNAStrand(dna){
+  
+  const DNAComplement = {
+    'G' : 'C',
+    'C' : 'G', 
+    'T' : 'A',
+    'A' : 'T'
+  }
+  
+  return dna.split('').map(elem => DNAComplement[elem]).join('')
+
+}
 
 // ------------------------------
 
