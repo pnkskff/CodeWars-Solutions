@@ -65,11 +65,14 @@ accum('Kanye')
 //    CodeWars Solutions
 
 //    14. Solution 14 - 7 Kyu - Complementary DNA
-//    
+//    In DNA strings, symbols "A" and "T" are complements of each other, as "C" and "G". 
+//    Your function receives one side of the DNA (string, except for Haskell); 
+//    you need to return the other complementary side. 
+//    DNA strand is never empty or there is no DNA at all (again, except for Haskell).
 
-//    Parameters: 
-//    Return: 
-//    Example: 
+//    Parameters: String  
+//    Return: (input -> output)
+//    Example: 'GTAT' -> 'CATA'
 //    Pseudocode:
 //    1. Create Function
 //    2. 
@@ -82,6 +85,11 @@ accum('Kanye')
 
 //    Primary Solution:
 
+function dnaStrand(dna){
+    a
+}
+
+dnaStrand('GATT')
 
 //    Alternate Solution:
 
