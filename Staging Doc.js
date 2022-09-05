@@ -35,18 +35,18 @@
 //    7. 
 //    8. Call Function
 
-//    Primary Solution:
+// Primary Solution:
 
 function accum(letters) {
-    return letters.split('').map( (firstChar, secondChar) => (firstChar.toUpperCase() + secondChar.toLowerCase().repeat(secondChar)) ).join('-')
+    return [...letters].map( (char, index) => (char.toUpperCase() + char.toLowerCase().repeat(index)) ).join('-')
   }
 
 accum('Kanye')
 
-//    Alternate Solution:
+// Alternate Solution:
 
 function accum(letters) {
-    return [...letters].map( (char, index) => (char.toUpperCase() + char.toLowerCase().repeat(index)) ).join('-')
+    return letters.split('').map( (firstChar, secondChar) => (firstChar.toUpperCase() + firstChar.toLowerCase().repeat(secondChar)) ).join('-')
   }
 
 accum('Kanye')
