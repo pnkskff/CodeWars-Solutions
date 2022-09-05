@@ -24,6 +24,9 @@
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
 //    INSERT CODE
 
+//    Insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
+//    INSERT DETAILS OF SOLLUTIONS
+
 //    If applicable, insert Solution that works with CodeWars below:
 //    INSERT CODE
 
