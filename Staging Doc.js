@@ -75,13 +75,18 @@ accum('Kanye')
 //    Example: 'GTAT' -> 'CATA'
 //    Pseudocode:
 //    1. Create Function
-//    2. 
-//    3.
-//    4. 
-//    5. 
-//    6. 
-//    7. 
-//    8. Call Function
+//    2. Declare a Const Variable for the Key:Value Pairs of each Letter, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+//    https://stackoverflow.com/questions/25955749/what-is-a-key-value-pair
+//    3. Use Split method to split the String into individual characters, see below
+//
+//    4. Use Map method to iterate though String and return a new Array based on Key:Value Pairs, see below
+//
+//    5. Within Map, use Arrow Function to execute the evaluation of the Input to its corresponding Output, see below
+//
+//    6. Use Join method to join the Characters back into one String, see below
+// 
+//    7. Call Function
 
 //    Primary Solution:
 
