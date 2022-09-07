@@ -58,7 +58,7 @@ accum('Kanye')
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 
 //    3. SOLUTION:
@@ -79,13 +79,13 @@ accum('Kanye')
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
 //    https://stackoverflow.com/questions/25955749/what-is-a-key-value-pair
 //    3. Use Split method to split the String into individual characters, see below
-//
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 //    4. Use Map method to iterate though String and return a new Array based on Key:Value Pairs, see below
-//
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 //    5. Within Map, use Arrow Function to execute the evaluation of the Input to its corresponding Output, see below
-//
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //    6. Use Join method to join the Characters back into one String, see below
-// 
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 //    7. Call Function
 
 //    Primary Solution:
