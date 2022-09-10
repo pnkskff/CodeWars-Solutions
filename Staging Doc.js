@@ -16,8 +16,9 @@
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    15. Solution 15 - 7 Kyu - Sum of two lowest positive integers
+//    Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. 
+//    No floats or non-positive integers will be passed.
 
 //    Parameters: 
 //    Return: 
