@@ -5,7 +5,7 @@
 // ------------------------------
 
 //    1. KATA:
-//       a. 
+//       a. 7 Kyu - Sum of two lowest positive integers
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -20,8 +20,8 @@
 //    Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. 
 //    No floats or non-positive integers will be passed.
 
-//    Parameters: 
-//    Return: 
+//    Parameters: Integers, Positive, Array, No Floats, No Negative
+//    Return: Sum of 2 lowest positive integers from an array of at least 4 positive integers
 //    Example: 
 //    Pseudocode:
 //    1. Create Function
