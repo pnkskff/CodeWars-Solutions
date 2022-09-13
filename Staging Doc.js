@@ -22,7 +22,7 @@
 
 //    Parameters: Integers, Positive, Array, No Floats, No Negative
 //    Return: Sum of 2 lowest positive integers from an array of at least 4 positive integers
-//    Example: 
+//    Example: [1,2,3,4,5] -> 1+2 -> Return of 3
 //    Pseudocode:
 //    1. Create Function
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
