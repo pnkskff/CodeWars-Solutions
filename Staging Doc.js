@@ -25,7 +25,7 @@
 //    Example: [1,2,3,4,5] -> 1+2 -> Return of 3
 //    Pseudocode:
 //    1. Create Function
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//    
 //    2. 
 //    3. 
 //    4. 
@@ -35,13 +35,13 @@
 //    8. Call Function
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    INSERT CODE
+//    
 
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
-//    INSERT DETAILS OF SOLUTIONS
+//    
 
 //    If applicable, insert ALternate Solution or Solution that works with CodeWars below:
-//    INSERT CODE
+//    
 
 // ------------------------------
 
