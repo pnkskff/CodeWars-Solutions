@@ -9,7 +9,7 @@
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 
 //    3. SOLUTION:
@@ -25,14 +25,17 @@
 //    Example: [1,2,3,4,5] -> 1+2 -> Return of 3
 //    Pseudocode:
 //    1. Create Function
-//    
-//    2. 
-//    3. 
-//    4. 
-//    5. 
-//    6. 
-//    7. 
-//    8. Call Function
+//    2. Declare Input as an Array, so that Array Methods can be used, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+//    3. Within declaration, use Numbers property to specify that Input will be Numbers, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number
+//    4. Use Sort method to then sort Input, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort
+//    5. Within Sort, specify Instructions on how Function should iterate through Array, use Arrow Function to specify sort in Descending Order, see below 
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+//    6. Declare a Return, adding Index 0 to Index 1 of Array variable, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array
+//    7. Call Function
 
 function sumTwoSmallestNumbers(numbers) {  
     let arr = numbers.sort( (a, b) => a - b)
