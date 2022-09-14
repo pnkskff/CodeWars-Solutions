@@ -5,10 +5,10 @@
 // ------------------------------
 
 //    1. KATA:
-//       a. 7 Kyu - Sum of two lowest positive integers
+//       a. 7 Kyu - Sum of Two Lowest Positive Integers
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 
@@ -16,7 +16,7 @@
 
 //    CodeWars Solutions
 
-//    15. Solution 15 - 7 Kyu - Sum of two lowest positive integers
+//    15. Solution 15 - 7 Kyu - Sum of Two Lowest Positive Integers
 //    Create a function that returns the sum of the two lowest positive numbers given an array of minimum 4 positive integers. 
 //    No floats or non-positive integers will be passed.
 
@@ -34,14 +34,13 @@
 //    7. 
 //    8. Call Function
 
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    
+function sumTwoSmallestNumbers(numbers) {  
+    let arr = numbers.sort( (a, b) => a - b)
+    
+    return arr[0] + arr[1]
+}
 
-//    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
-//    
-
-//    If applicable, insert ALternate Solution or Solution that works with CodeWars below:
-//    
+sumTwoSmallestNumbers([27,69,89,100,3005])  
 
 // ------------------------------
 
