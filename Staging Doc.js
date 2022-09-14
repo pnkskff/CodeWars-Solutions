@@ -48,6 +48,37 @@ sumTwoSmallestNumbers([27,69,89,100,3005])
 
 // ------------------------------
 
+//    1. KATA:
+//       a. 7 Kyu - 
+
+//    2. STATUS:
+//       a. Not submitted to CodeWars.
+//       b. Incomplete Documentation.
+//       c. Not pushed to GitHub.
+//       d. JS File not created on Desktop.
+
+//    3. SOLUTION:
+
+//    CodeWars Solutions
+
+//    16. Solution 16 - 7 Kyu - 
+//    
+
+//    Parameters: 
+//    Return: 
+//    Example: 
+//    Pseudocode:
+//    1. Create Function
+//    2. 
+//    3. 
+//    4. 
+//    5. 
+//    6. 
+//    7. Call Function
+ 
+
+// ------------------------------
+
 // II. FURTHER INFO:
 
 //     1. CodeWars Solutions Repo URL: 
