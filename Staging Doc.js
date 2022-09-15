@@ -73,12 +73,13 @@ sumTwoSmallestNumbers([27,69,89,100,3005])
 //             (1,2) -> (1 + 2) -> (3)
 //    Pseudocode:
 //    1. Create Function
-//    2. 
-//    3. 
-//    4. 
-//    5. 
-//    6. 
-//    7. Call Function
+//    2. Write a Conditional using Strict Equalit6y Operator, to declare that if A is same as B then Return A, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
+//    3. Declare Variable, that results in Adding A to B, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition
+//    4. Call Function
 
 // NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
 
