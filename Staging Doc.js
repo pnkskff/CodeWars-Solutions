@@ -53,7 +53,7 @@ sumTwoSmallestNumbers([27,69,89,100,3005])
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
