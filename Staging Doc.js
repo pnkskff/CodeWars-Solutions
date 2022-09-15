@@ -49,10 +49,10 @@ sumTwoSmallestNumbers([27,69,89,100,3005])
 // ------------------------------
 
 //    1. KATA:
-//       a. 7 Kyu - 
+//       a. 7 Kyu - Beginner Series #3 Sum of Numbers
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
@@ -61,12 +61,16 @@ sumTwoSmallestNumbers([27,69,89,100,3005])
 
 //    CodeWars Solutions
 
-//    16. Solution 16 - 7 Kyu - 
-//    
+//    16. Solution 16 - 7 Kyu - Beginner Series #3 Sum of Numbers
+//    Given two integers a and b, which can be positive or negative, find the sum of all the integers between and including them and return it. 
+//    If the two numbers are equal return a or b.
 
-//    Parameters: 
-//    Return: 
-//    Example: 
+//    Parameters: Integers, Positive, Negative
+//    Return: Return Sum of all Integers between, and including A and B
+//            If two numbers are equal, return A or B
+//    Example: (1,0) -> (1 + 0) -> (1)
+//             (1,1) -> (1 + 1) -> (1)
+//             (1,2) -> (1 + 2) -> (3)
 //    Pseudocode:
 //    1. Create Function
 //    2. 
@@ -75,7 +79,39 @@ sumTwoSmallestNumbers([27,69,89,100,3005])
 //    5. 
 //    6. 
 //    7. Call Function
- 
+
+// NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
+
+function getSum (a, b) {
+    
+    if (a === b)
+        return (a)
+    
+    let sum = a + b
+        return (sum)
+}
+
+getSum(21,21)
+getSum(69,44)
+getSum(69,89)
+getSum(-8,-8)
+getSum(-21,-5,0,16)
+
+// CodeWars Solution that works:
+
+function getSum(a,b) {
+
+    if (a == b) {
+      return a
+    }
+    else if (a > b) {
+      return a + getSum( a - 1, b)
+    } 
+    else {
+      return a + getSum( a + 1, b)
+    }
+    
+  }
 
 // ------------------------------
 
