@@ -50,7 +50,7 @@ III. NOTE:
 
 3. Also, if there is a more efficient or more understandable way of resolving the Challenge: Please Fork/Document/Push, let's build a Repo for all levels of Devs!!!
 
-4. Here are further details regarding auxilliary docs within the Repo:
+4. Here are further details regarding auxilliary docs and folders within the Repo:
 
    a. Instructions.js
 
@@ -70,6 +70,24 @@ III. NOTE:
    URL: https://github.com/pnkskff/CodeWars-Solutions/blob/main/Staging%20Doc.js
    
       - Contains partially completed Kata Challenges.
+
+   d. 8 Kyu Solutions folder
+   
+   URL: https://github.com/pnkskff/CodeWars-Solutions/tree/main/8%20Kyu%20Solutions
+   
+      - Contains .js files for 8 Kyu Challenges and Solutions. 
+      
+   e. 7 Kyu Solutions folder
+   
+   URL: https://github.com/pnkskff/CodeWars-Solutions/tree/main/7%20Kyu%20Solutions
+   
+      - Contains .js files for 7 Kyu Challenges and Solutions.
+      
+   f. 6 Kyu Solutions folder
+   
+   URL: https://github.com/pnkskff/CodeWars-Solutions/tree/main/6%20Kyu%20Solutions
+   
+      - Contains .js files for 6 Kyu Challenges and Solutions.
 
 IV. FURTHER INFO:
 
