@@ -8,27 +8,11 @@ I. INTRO:
       
       b. URL: https://github.com/pnkskff/CodeWars-Solutions
 
-   2. Currently working on 8KYU/7KYU Javascript Challenges, eventually transitioning into higher KYUs.
+   2. Currently working on 8KYU/7KYU/6KYU Javascript Challenges, eventually transitioning into higher KYUs.
 
-   3. Naming Convention will be:
+   3. Naming Convention is:
 
-      a. Solution/Number/Name.js
-   
-      b. Eventually, will add Kyu Level: Solution/Number/(Kyu)/Name.js
-   
-      c. Unfortunately, I am unable to fix the Numerical Sort within the Repo:
-
-         Solution 19 Basic Math Operations.js
-
-         Solution 2 Opposite Number.js
-
-         Solution 20 Returning Strings.js
-
-         Solution 21 Convert Number to Reversed Array of Digits.js
-
-         Solution 3 Num to Str.js
-
-         - When Sort logic kicks in, the double digit numbers append to their root number.
+      a. Solution Number - Kyu - Name.js
 
    4. Solutions are not always the best/most efficient, but it works! - "I'm a baddie and I write bad code. /s"
 
