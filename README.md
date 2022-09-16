@@ -13,8 +13,26 @@ I. INTRO:
    3. Naming Convention is:
 
       a. Solution Number - Kyu - Name.js
+   
+   4. Unfortunately, the Naming Convention within the Solutions Folders is not supported by Default Github Sort logic:
 
-   4. Solutions are not always the best/most efficient, but it works! - "I'm a baddie and I write bad code. /s"
+      https://stackoverflow.com/questions/17665267/how-do-you-control-the-order-in-which-files-appear-in-a-github-gist
+
+      Example:
+      
+         Solution 19 Basic Math Operations.js
+
+         Solution 2 Opposite Number.js
+
+         Solution 20 Returning Strings.js
+
+         Solution 21 Convert Number to Reversed Array of Digits.js
+
+         Solution 3 Num to Str.js
+
+      - Sort logic is Alphabetical as expected, but the double digit numbers append to their root number, instead of being Numerical in Ascending Order.
+
+   5. Solutions are not always the best/most efficient, but it works! - "I'm a baddie and I write bad code. /s"
 
 II. P.R.E.P. TECHNIQUE:
 
