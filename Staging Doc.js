@@ -5,7 +5,7 @@
 // ------------------------------
 
 //    1. KATA:
-//       a.  Kyu - 
+//       a. 7 Kyu - Growth of a Population
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -17,12 +17,18 @@
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    18. Solution 18 - 7 Kyu - Growth of a Population
+//    In a small town the population is p0 = 1000 at the beginning of a year. 
+//    The population regularly increases by 2 percent per year and moreover 50 new inhabitants per year come to live in the town. 
+//    How many years does the town need to see its population greater or equal to p = 1200 inhabitants?
+//    Don't forget to convert the percent parameter as a percentage in the body of your function: if the parameter percent is 2 you have to convert it to 0.02.
 
-//    Parameters: 
-//    Return: 
-//    Example: 
+//    Parameters: Integer, Decimal, Positive, Floating Number
+//    Return: Return Years needed to reach 1200 Inhabitants
+//    Example: 1st Year: 1000 + 1000 * 0.02 + 50 -> 1070 inhabitants
+//             2nd Year: 1070 + 1070 * 0.02 + 50 -> 1141 inhabitants
+//             3rd Year: 1141 + 1141 * 0.02 + 50 -> 1213 inhabitants
+//             It will take 3 Years to reach 1200 inhabitants
 //    Pseudocode:
 //    1. Create Function
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
