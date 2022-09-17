@@ -19,8 +19,8 @@
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
 //    5. Call Function
 
-function friend(friends){
+function friend(friends) {
     return friends.filter( function (names) { return names.length === 4 } )
-  }
+}
 
 friend(['Kanye', 'A$AP', 'Drake', 'Big Boi', 'Kendrick Lamar'])
