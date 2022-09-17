@@ -1,4 +1,4 @@
-66// Staging Doc
+// Staging Doc
 
 // I. KATA SOLUTIONS:
 
@@ -30,8 +30,8 @@
 //             3rd Year: 1141 + 1141 * 0.02 + 50 -> 1213 inhabitants
 //             It will take 3 Years to reach 1200 inhabitants
 //    Pseudocode:
+//    NOTE: Pseudocode for this Solution will be written for CodeWars Solutions that Passes
 //    1. Create Function
-//    
 //    2. 
 //    3. 
 //    4. 
@@ -46,7 +46,10 @@ function nbYear(currentPop, growthPop, inhabitantsMove, goalPop) {
     
     let year = 0
     
-      while ( currentPop < goalPop) { year++; currentPop = currentPop + ( currentPop*(growthPop/100) ) + inhabitantsMove }
+      while ( currentPop < goalPop) { 
+          year++; currentPop = currentPop + ( currentPop*(growthPop/100) ) + inhabitantsMove 
+      }
+      
       return year
 
 }
@@ -55,15 +58,17 @@ nbYear(1500, 0.8, 27, 5000)
 
 // CodeWars Solution that works:
 
-function nbYear(p0, percent, aug, p) {
+function nbYear(currentPop, growthPop, inhabitantsMove, goalPop) {
     
-    for (var years = 0; p0 < p; years++) {
-        p0 = Math.floor( p0 + p0 * percent / 100 + aug )
+    for (var year = 0; currentPop < goalPop; year++) {
+        currentPop = Math.floor( currentPop + currentPop * growthPop / 100 + inhabitantsMove )
     }
   
-    return years
+    return year
 
 }
+
+nbYear(1000, 0.2, 50, 1200)
 
 // ------------------------------
 
