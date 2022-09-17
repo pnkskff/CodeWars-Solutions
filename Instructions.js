@@ -6,6 +6,8 @@
 //       https://www.codewars.com/kata/search/javascript?q=&r[]=-8&tags=Fundamentals&beta=false&order_by=total_completed%20desc
 //    2. 7 Kyu JS
 //       https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-7&tags=Fundamentals&beta=false&order_by=total_completed%20desc
+//    3. 6 Kyu JS
+//       https://www.codewars.com/kata/search/javascript?q=&r%5B%5D=-6&tags=Fundamentals&beta=false&order_by=total_completed%20desc
 
 // II. INSTRUCTIONS:
 
