@@ -50,8 +50,6 @@ dnaStrand(['GATTACA'])
 // 3. Last Pairing in dnaPairs should also have ,
 // 4. Making these updates allow the Solution above to Pass within Codewars
 
-//    Alternate Solution:
-
 // CodeWars Solution that works:
 
 function DNAStrand(dna){
