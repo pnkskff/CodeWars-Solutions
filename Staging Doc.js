@@ -1,4 +1,4 @@
-// Staging Doc
+66// Staging Doc
 
 // I. KATA SOLUTIONS:
 
@@ -40,20 +40,7 @@
 //    7. 
 //    8. Call Function
 
-// Primary Solution:
-
-function nbYear(p0, percent, aug, p) {
-    
-    let year = 0
-    
-      while ( p0 < p) { year++; p0 = p0 + ( p0*(percent/100) ) + aug }
-      return year
-    
-}
-
-nbYear(1000, 0.2, 50, 1200)
-
-// Alternate Solution:
+// NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
 
 function nbYear(currentPop, growthPop, inhabitantsMove, goalPop) {
     
@@ -66,11 +53,17 @@ function nbYear(currentPop, growthPop, inhabitantsMove, goalPop) {
 
 nbYear(1500, 0.8, 27, 5000)
 
-//    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
-//    INSERT DETAILS OF SOLUTIONS
+// CodeWars Solution that works:
 
-//    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
-//    INSERT CODE
+function nbYear(p0, percent, aug, p) {
+    
+    for (var years = 0; p0 < p; years++) {
+        p0 = Math.floor( p0 + p0 * percent / 100 + aug )
+    }
+  
+    return years
+
+}
 
 // ------------------------------
 
