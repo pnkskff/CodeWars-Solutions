@@ -40,22 +40,28 @@
 //    7. 
 //    8. Call Function
 
+// Primary Solution:
+
 function nbYear(p0, percent, aug, p) {
     
     let year = 0
     
       while ( p0 < p) { year++; p0 = p0 + ( p0*(percent/100) ) + aug }
       return year
+    
 }
 
 nbYear(1000, 0.2, 50, 1200)
 
+// Alternate Solution:
 
 function nbYear(currentPop, growthPop, inhabitantsMove, goalPop) {
+    
     let year = 0
     
       while ( currentPop < goalPop) { year++; currentPop = currentPop + ( currentPop*(growthPop/100) ) + inhabitantsMove }
       return year
+
 }
 
 nbYear(1500, 0.8, 27, 5000)
