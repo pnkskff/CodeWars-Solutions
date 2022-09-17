@@ -10,7 +10,7 @@ I. INTRO:
 
    2. Currently working on 8KYU/7KYU/6KYU Javascript Challenges, eventually transitioning into higher KYUs.
 
-   3. Naming Convention is:
+   3. Naming Convention for Solutions is:
 
       a. Solution Number - Kyu - Name.js
    
@@ -68,7 +68,7 @@ III. NOTE:
 
 3. Also, if there is a more efficient or more understandable way of resolving the Challenge: Please Fork/Document/Push, let's build a Repo for all levels of Devs!!!
 
-4. Here are further details regarding auxilliary docs and folders within the Repo:
+4. Here are further details regarding Auxilliary Docs and Solutions Folders within the Repo:
 
    a. Instructions.js
 
@@ -109,7 +109,7 @@ III. NOTE:
 
 IV. FURTHER INFO:
 
-1. Readme last updated on: AUGUST 2022
+1. Readme last updated on: SEPTEMBER 2022
 
 2. Authors:
 
