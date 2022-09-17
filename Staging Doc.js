@@ -9,7 +9,7 @@
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
@@ -32,13 +32,17 @@
 //    Pseudocode:
 //    NOTE: Pseudocode for this Solution will be written for CodeWars Solutions that Passes
 //    1. Create Function
-//    2. 
-//    3. 
-//    4. 
-//    5. 
-//    6. 
-//    7. 
-//    8. Call Function
+//    2. Use For Loop to iterate through Parameters, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration#for_statement
+//    3. Within Parameters of For Loop, declare Year as a Var so that it can update, instead of being Hardcoded
+//    4. Within Brackets, declare currentPop as Base Number
+//    5. Then, use Math.floor function to round down and return largest Integer, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor
+//    6. Within Math.floor function, specify the execution of Parameters to derive the Answer, further details:
+//       a. Start with currentPop
+//       b. Then Add to it the result of currentPop Multiplied by growthPop Divided by 100
+//       c. Then Add the expectd amount of Inhabitants Moving In or Out
+//    7. Call Function
 
 // NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
 
