@@ -8,7 +8,7 @@
 //       a. 7 Kyu - Growth of a Population
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
@@ -31,7 +31,7 @@
 //             It will take 3 Years to reach 1200 inhabitants
 //    Pseudocode:
 //    1. Create Function
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//    
 //    2. 
 //    3. 
 //    4. 
