@@ -40,8 +40,25 @@
 //    7. 
 //    8. Call Function
 
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    INSERT CODE
+function nbYear(p0, percent, aug, p) {
+    
+    let year = 0
+    
+      while ( p0 < p) { year++; p0 = p0 + ( p0*(percent/100) ) + aug }
+      return year
+}
+
+nbYear(1000, 0.2, 50, 1200)
+
+
+function nbYear(currentPop, growthPop, inhabitantsMove, goalPop) {
+    let year = 0
+    
+      while ( currentPop < goalPop) { year++; currentPop = currentPop + ( currentPop*(growthPop/100) ) + inhabitantsMove }
+      return year
+}
+
+nbYear(1500, 0.8, 27, 5000)
 
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
 //    INSERT DETAILS OF SOLUTIONS
