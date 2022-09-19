@@ -77,7 +77,7 @@ nbYear(1000, 0.2, 50, 1200)
 // ------------------------------
 
 //    1. KATA:
-//       a. 
+//       a. 7 Kyu - Is this a Triangle?
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -89,8 +89,10 @@ nbYear(1000, 0.2, 50, 1200)
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    19. Solution 19 - 7 Kyu - Is this a Triangle? 
+//    Implement a function that accepts 3 integer values a, b, c. 
+//    The function should return true if a triangle can be built with the sides of given length and false in any other case.
+//    (In this case, all triangles must have surface greater than 0 to be accepted).
 
 //    Parameters: 
 //    Return: 
