@@ -19,9 +19,11 @@
 // 6. Call Function
 
 function digitize(num) {
+  
   let str = String(num);
   
   return str.split('').map(Number).reverse()
+
 }
 
 digitize(129583674)
