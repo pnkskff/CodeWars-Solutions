@@ -24,7 +24,9 @@ function getCount(str) {
       vowelsCount++
     }
   }
+  
   return vowelsCount
+
 }
 
 getCount('Hello, my name is!')
