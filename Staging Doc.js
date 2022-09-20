@@ -100,7 +100,7 @@ nbYear(1000, 0.2, 50, 1200)
 //    Pseudocode:
 //    1. Create Function
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
-//    2. 6
+//    2. 
 //    3. 
 //    4. 
 //    5. 
