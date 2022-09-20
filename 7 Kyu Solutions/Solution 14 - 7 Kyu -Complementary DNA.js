@@ -38,6 +38,7 @@ function dnaStrand([dnaString]) {
     }
     
     return dnaString.split('').map( x => dnaPairs[x] ).join('')
+
 }
 
 dnaStrand(['GATTACA'])
