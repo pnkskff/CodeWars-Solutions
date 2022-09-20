@@ -81,7 +81,7 @@ nbYear(1000, 0.2, 50, 1200)
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
@@ -100,14 +100,14 @@ nbYear(1000, 0.2, 50, 1200)
 //             (1,1,2) -> False
 //    Pseudocode:
 //    1. Create Function
-//    
-//    2. 
-//    3. 
-//    4. 
-//    5. 
-//    6. 
-//    7. 
-//    8. Call Function
+//    2. Create a Variable to contain the Calculation to be done to execute the True/False Statement
+//    3. Use Arithmetic Operators and Greater Than Operator to calculate if Integers provided will result in a Triangle, see below
+//    https://www.calculator.net/triangle-calculator.html
+//    https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#arithmetic_operator6s
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Greater_than
+//    4. Use Logical AND Operator within the Calculation above, to specify the exclusive Condition that will result in True, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_AND
+//    5. Call Function
 
 function isTriangle(a,b,c) {
     
