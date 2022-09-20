@@ -29,6 +29,7 @@ function getSum (a, b) {
     
     let sum = a + b
         return (sum)
+
 }
 
 getSum(21,21)
