@@ -94,19 +94,36 @@ nbYear(1000, 0.2, 50, 1200)
 //    The function should return true if a triangle can be built with the sides of given length and false in any other case.
 //    (In this case, all triangles must have surface greater than 0 to be accepted).
 
-//    Parameters: 
-//    Return: 
-//    Example: 
+//    Parameters: Integers
+//    Return: Return True if Integers can result in a Triangle, False if not
+//    Example: (2,2,2) -> True
 //    Pseudocode:
 //    1. Create Function
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
-//    2. 
+//    2. 6
 //    3. 
 //    4. 
 //    5. 
 //    6. 
 //    7. 
 //    8. Call Function
+
+function isTriangle(a,b,c) {
+    
+    let lengths = a + b > c && a + c > b && c + b > a
+    
+    return lengths
+
+}
+
+// True
+isTriangle(2,2,2)
+
+// False
+isTriangle(1,1,2)
+
+// False
+isTriangle(2,12,27)
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
 //    INSERT CODE
