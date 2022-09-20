@@ -33,8 +33,10 @@ function basicOp(operation, value1, value2) {
   }
 }
 
+// Comment out other Calls when testing Function
+
 basicOp('+', 1, 1)
 basicOp('-', 2, 1)
 basicOp('*', 3, 1)
 basicOp('/', 8, 2)
-// Comment out other Calls when testing Function
+
