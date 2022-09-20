@@ -28,6 +28,6 @@ filterList([27, 89, 69, 21, 'Kanye West', 100, 'Jay-Z'])
 
 // CodeWars Solution that works:
 
-// function filter_list(l) {
-//  return l.filter(v => typeof v == "number")
-// }
+function filter_list(l) {
+  return l.filter(v => typeof v == "number")
+}
