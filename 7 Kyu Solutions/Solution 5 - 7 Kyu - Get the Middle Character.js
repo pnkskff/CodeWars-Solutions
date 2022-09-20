@@ -21,6 +21,7 @@
 // 8. Call Function
 
 function getMiddle(character) {
+  
   let middle = Math.floor(character.length/2)
   
   if (character.length % 2 === 0)
