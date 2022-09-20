@@ -82,7 +82,7 @@ nbYear(1000, 0.2, 50, 1200)
 //    2. STATUS:
 //       a. Submitted to CodeWars.
 //       b. Complete Documentation.
-//       c. Not pushed to GitHub.
+//       c. Pushed to GitHub.
 //       d. JS File not created on Desktop.
 
 //    3. SOLUTION:
