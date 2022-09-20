@@ -19,9 +19,11 @@
 // 6. Call Function
 
 function highAndLow(numbers) {
+  
   numbers = numbers.split(' ')
   
   return Math.max(...numbers) +' '+ Math.min(...numbers)
+
 }
 
 highAndLow('88 89 69 80 77')
