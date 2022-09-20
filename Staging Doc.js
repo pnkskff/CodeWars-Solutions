@@ -80,7 +80,7 @@ nbYear(1000, 0.2, 50, 1200)
 //       a. 7 Kyu - Is this a Triangle?
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
@@ -97,9 +97,10 @@ nbYear(1000, 0.2, 50, 1200)
 //    Parameters: Integers
 //    Return: Return True if Integers can result in a Triangle, False if not
 //    Example: (2,2,2) -> True
+//             (1,1,2) -> False
 //    Pseudocode:
 //    1. Create Function
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//    
 //    2. 
 //    3. 
 //    4. 
@@ -124,15 +125,6 @@ isTriangle(1,1,2)
 
 // False
 isTriangle(2,12,27)
-
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    INSERT CODE
-
-//    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
-//    INSERT DETAILS OF SOLUTIONS
-
-//    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
-//    INSERT CODE
 
 // ------------------------------
 
