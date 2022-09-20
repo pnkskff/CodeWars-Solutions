@@ -21,6 +21,6 @@
 // 7. Call Function
 
 const squareDigits = (num) =>
-Number([...String(num)].map((num) => Number(num) ** 2).join(''))
+  Number([...String(num)].map((num) => Number(num) ** 2).join(''))
 
 squareDigits(9119)
