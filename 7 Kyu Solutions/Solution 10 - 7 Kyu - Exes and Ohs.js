@@ -46,4 +46,5 @@ function XO(string) {
    let array = string.toLowerCase().split('')
    
    return array.filter(xX => xX === 'x').length === array.filter(oO => oO === 'o').length
+
 }
