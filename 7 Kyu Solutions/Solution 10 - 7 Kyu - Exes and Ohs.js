@@ -26,9 +26,11 @@
 // NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
 
 function xO(string) {
+  
     let word = string.toLowerCase().split('')
     
     return word.filter(xX => xX === 'x').length === word.filter(oO => oO === 'o').length
+
 }
 
 // True
@@ -39,7 +41,9 @@ xO('oOdjj48i5jh56-1@X')
 
 // CodeWars Solution that works:
 
-// function XO(string) {
-//   let array = string.toLowerCase().split('')
-//   return array.filter(xX => xX === 'x').length === array.filter(oO => oO === 'o').length
-// }
+function XO(string) {
+   
+   let array = string.toLowerCase().split('')
+   
+   return array.filter(xX => xX === 'x').length === array.filter(oO => oO === 'o').length
+}
