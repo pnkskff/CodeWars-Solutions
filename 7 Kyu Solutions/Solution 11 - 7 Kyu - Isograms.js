@@ -28,6 +28,7 @@
 // NOTE: Submitting this Solution to CodeWars results in a Fail, not sure why
 
 function isIsogram(string) {
+    
     str = string.toLowerCase()
 
     for (i = 0; i < str.length; i++) {
@@ -37,6 +38,7 @@ function isIsogram(string) {
         }
     }
     return 'True'
+
 }
 
 // True
@@ -47,15 +49,18 @@ isIsogram('Buy you a drank')
 
 // CodeWars Solution that works:
 
-// function isIsogram(str){
-//     var i, j;
-//     str = str.toLowerCase();
-//     for(i = 0; i < str.length; ++i) {
-//       for(j = i + 1; j < str.length; ++j) {
-//         if(str[i] === str[j]) {
-//           return false;
-//         }
-//       }
-//     }
-//     return true;
-//  }
+function isIsogram(str){
+     
+    var i, j;
+    
+    str = str.toLowerCase();
+    
+        for(i = 0; i < str.length; ++i) {
+        for(j = i + 1; j < str.length; ++j) {
+            if(str[i] === str[j]) {
+                return false;
+            }
+        }
+        }
+     return true;
+}6
