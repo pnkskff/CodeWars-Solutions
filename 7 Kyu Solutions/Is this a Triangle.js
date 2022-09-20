@@ -1,4 +1,4 @@
-66//    CodeWars Solutions
+//    CodeWars Solutions
 
 //    19. Solution 19 - 7 Kyu - Is this a Triangle? 
 //    Implement a function that accepts 3 integer values a, b, c. 
