@@ -145,9 +145,11 @@ isTriangle(2,12,27)
 //    Take 2 strings s1 and s2 including only letters from a to z. 
 //    Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
 
-//    Parameters: 
-//    Return: 
-//    Example: 
+//    Parameters: String, Array
+//    Return: Return Sorted String, longest possible, containing unique letters, only displaying once
+//    Example: a = 'xyaabbbccccdefww'
+//             b = 'xxxxyyyyabklmopq'
+//             longest(a, b) -> 'abcdefklmopqwxy'
 //    Pseudocode:
 //    1. Create Function
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
@@ -158,6 +160,8 @@ isTriangle(2,12,27)
 //    6. 
 //    7. 
 //    8. Call Function
+
+
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
 //    INSERT CODE
