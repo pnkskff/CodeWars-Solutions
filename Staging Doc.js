@@ -129,7 +129,7 @@ isTriangle(2,12,27)
 // ------------------------------
 
 //    1. KATA:
-//       a. 
+//       a. 7 Kyu - Two to One
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -141,8 +141,9 @@ isTriangle(2,12,27)
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    20. Solution 20 - 7 Kyu - Two to One 
+//    Take 2 strings s1 and s2 including only letters from a to z. 
+//    Return a new sorted string, the longest possible, containing distinct letters - each taken only once - coming from s1 or s2.
 
 //    Parameters: 
 //    Return: 
