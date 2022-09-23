@@ -161,16 +161,11 @@ isTriangle(2,12,27)
 //    7. 
 //    8. Call Function
 
+function longestStr(a, b) {
+    return Array.from( new Set (a + b) ).sort().join('')
+}
 
-
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    INSERT CODE
-
-//    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
-//    INSERT DETAILS OF SOLUTIONS
-
-//    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
-//    INSERT CODE
+longestStr('aaxxxxojnbmvcmdoe','aprprfmdlfgjfhdbr')
 
 // ------------------------------
 
