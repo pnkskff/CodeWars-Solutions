@@ -35,4 +35,4 @@ isTriangle(2,2,2)
 isTriangle(1,1,2)
 
 // False
-isTriangle(2,12,27)66
+isTriangle(2,12,27)
