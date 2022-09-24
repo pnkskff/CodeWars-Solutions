@@ -11,7 +11,7 @@
 //       a. Submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Pushed to GitHub.
-//       d. JS File not created on Desktop.
+//       d. JS File created on Desktop.
 
 //    3. SOLUTION:
 
@@ -83,7 +83,7 @@ nbYear(1000, 0.2, 50, 1200)
 //       a. Submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Pushed to GitHub.
-//       d. JS File not created on Desktop.
+//       d. JS File created on Desktop.
 
 //    3. SOLUTION:
 
@@ -135,7 +135,7 @@ isTriangle(2,12,27)
 //       a. Not submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Pushed to GitHub.
-//       d. JS File not created on Desktop.
+//       d. JS File created on Desktop.
 
 //    3. SOLUTION:
 
