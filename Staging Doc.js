@@ -133,7 +133,7 @@ isTriangle(2,12,27)
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
