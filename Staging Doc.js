@@ -5,7 +5,7 @@
 // ------------------------------
 
 //    1. KATA:
-//       a. 
+//       a. 6 Kyu - Who Likes It
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -17,8 +17,12 @@
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    1. Solution 1 - 6 Kyu - Who Likes It 
+//    You probably know the "like" system from Facebook and other pages. 
+//    People can "like" blog posts, pictures or other items. 
+//    We want to create the text that should be displayed next to such an item.
+//    Implement the function which takes an array containing the names of people that like an item. 
+//    It must return the display text as shown in the examples:
 
 //    Parameters: 
 //    Return: 
