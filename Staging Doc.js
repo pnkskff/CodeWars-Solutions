@@ -5,13 +5,13 @@
 // ------------------------------
 
 //    1. KATA:
-//       a. 7 Kyu - Growth of a Population
+//       a. 
 
 //    2. STATUS:
-//       a. Submitted to CodeWars.
-//       b. Complete Documentation.
-//       c. Pushed to GitHub.
-//       d. JS File created on Desktop.
+//       a. Not submitted to CodeWars.
+//       b. Incomplete Documentation.
+//       c. Not pushed to GitHub.
+//       d. JS File not created on Desktop.
 
 //    3. SOLUTION:
 
