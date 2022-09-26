@@ -22,14 +22,17 @@
 //    People can "like" blog posts, pictures or other items. 
 //    We want to create the text that should be displayed next to such an item.
 //    Implement the function which takes an array containing the names of people that like an item. 
-//    It must return the display text as shown in the examples:
 
-//    Parameters: 
-//    Return: 
+//    Parameters: String, Array
+//    Return: Return Name/s of at least 3 People who Liked the Post, turn 3rd Items as Digit - Others if more than 3 People Like the Post
 //    Example: 
+//           []                                ->  'No one likes this'
+//           ['Peter']                         ->  'Peter likes this'
+//           ['Jacob', 'Alex']                 ->  'Jacob and Alex like this'
+//           ['Max', 'John', 'Mark']           ->  'Max, John and Mark like this'
+//           ['Alex', 'Jacob', 'Mark', 'Max']  ->  'Alex, Jacob and 2 others like this'
 //    Pseudocode:
 //    1. Create Function
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    2. 
 //    3. 
 //    4. 
