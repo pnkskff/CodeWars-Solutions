@@ -54,53 +54,58 @@ function likes(names) {
   } else if ( names.length===3 ) { 
     return `${ names[0] }, ${ names[1] } and ${ names[2] } like this`
   }
-    else {
+  
+  else {
       return `${ names[0] }, ${ names[1] } and ${ names.length-2 } others like this`
   }
+  
 }
 
 // 0 Like
-likes()
+likes([])
 
 // 1 Like
-likes('Kanye')
+likes(['Kanye'])
 
 // 2 Likes
-likes('Kanye', 'Kendrick')
+likes(['Kanye', 'Kendrick'])
 
 // 3 Likes
-likes('Kanye', 'Kendrick', 'Drake')
+likes(['Kanye', 'Kendrick', 'Drake'])
 
 // 3+ Likes
-likes('Kanye', 'Kendrick', 'Drake', 'Kid Cudi')
+likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 // Alternate Solution:
 
 function likes(names) {
-  names = names || [];
-  switch(names.length){
-    case 0: return 'no one likes this'; break;
+  
+  names = names || []
+  
+  switch(names.length) {
+    case 0: return 'No one likes this'; break;
     case 1: return names[0] + ' likes this'; break;
     case 2: return names[0] + ' and ' + names[1] + ' like this'; break;
     case 3: return names[0] + ', ' + names[1] + ' and ' + names[2] + ' like this'; break;
     default: return names[0] + ', ' + names[1] + ' and ' + (names.length - 2) + ' others like this';
   }
+  
 }
 
 // 0 Like
-likes()
+likes([])
 
 // 1 Like
-likes('Kanye')
+likes(['Kanye'])
 
 // 2 Likes
-likes('Kanye', 'Kendrick')
+likes(['Kanye', 'Kendrick'])
 
 // 3 Likes
-likes('Kanye', 'Kendrick', 'Drake')
+likes(['Kanye', 'Kendrick', 'Drake'])
 
 // 3+ Likes
-likes('Kanye', 'Kendrick', 'Drake', 'Kid Cudi')
+likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 // ------------------------------
 
