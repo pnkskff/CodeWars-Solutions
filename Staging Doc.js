@@ -8,7 +8,7 @@
 //       a. 6 Kyu - Who Likes It
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
