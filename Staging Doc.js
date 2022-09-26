@@ -41,8 +41,35 @@
 //    7. 
 //    8. Call Function
 
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-//    INSERT CODE
+function likes(names) {
+  
+  if ( names.length===0 ) 
+    return 'No one likes this'
+  if ( names.length===1 ) 
+    return `${ names[0] } likes this`
+  if ( names.length===2 ) 
+    return `${ names[0] } and ${ names[1] } like this`
+  if ( names.length===3 ) 
+    return `${ names[0] }, ${ names[1] } and ${ names[2] } like this`
+  
+  return `${ names[0] }, ${ names[1] } and ${ names.length-2 } others like this`;
+
+}
+
+// 0 Like
+names()
+
+// 1 Like
+names('Kanye')
+
+// 2 Likes
+names('Kanye', 'Kendrick')
+
+// 3 Likes
+names('Kanye', 'Kendrick', 'Drake')
+
+// 3+ Likes
+names('Kanye', 'Kendrick', 'Drake', 'Kid Cudi')
 
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
 //    INSERT DETAILS OF SOLUTIONS
