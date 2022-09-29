@@ -31,6 +31,7 @@
 //           ['Jacob', 'Alex']                 ->  'Jacob and Alex like this'
 //           ['Max', 'John', 'Mark']           ->  'Max, John and Mark like this'
 //           ['Alex', 'Jacob', 'Mark', 'Max']  ->  'Alex, Jacob and 2 others like this'
+//    Pseudocode below pertains to Primary Solution
 //    Pseudocode:
 //    1. Create Function
 //    2. 
