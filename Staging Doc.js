@@ -34,13 +34,15 @@
 //    NOTE: Pseudocode below pertains to Primary Solution
 //    Pseudocode:
 //    1. Create Function
-//    2. 
-//    3. 
-//    4. 
-//    5. 
-//    6. 
-//    7. 
-//    8. Call Function
+//    2. Use If...Else Statement to specify Conditions for each amount of Likes, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else
+//    3. Within If Statement, use Length property of Input as main Condition, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
+//    4. Use Strict Equality Operator to specify that only Number Type is used to execute the Statements, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
+//    5. Use Template Literals (Bling Syntax) to insert a Templated Statement for each amount of Likes, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals
+//    6. Call Function
 
 // Primary Solution:
 
