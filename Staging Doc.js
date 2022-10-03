@@ -9,7 +9,7 @@
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
