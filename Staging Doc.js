@@ -126,7 +126,6 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    CodeWars Solutions
 
 //    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
 
 //    Parameters: 
 //    Return: 
