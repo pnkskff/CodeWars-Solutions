@@ -112,6 +112,17 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 // ------------------------------
 
+//    1. KATA:
+//       a. 6 Kyu - 
+
+//    2. STATUS:
+//       a. Not submitted to CodeWars.
+//       b. Incomplete Documentation.
+//       c. Not pushed to GitHub.
+//       d. JS File not created on Desktop.
+
+//    3. SOLUTION:
+
 //    CodeWars Solutions
 
 //    Number. Solution Number - Kata Kyu - Kata Name 
