@@ -132,7 +132,6 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    Example: 
 //    Pseudocode:
 //    1. Create Function
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    2. 
 //    3. 
 //    4. 
