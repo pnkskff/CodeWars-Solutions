@@ -113,7 +113,7 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 // ------------------------------
 
 //    1. KATA:
-//       a. 6 Kyu - 
+//       a. 6 Kyu - Find the Odd Int
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -125,7 +125,9 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
+//    2. Solution 2 - 6 Kyu - Find the Odd Int
+//    Given an array of integers, find the one that appears an odd number of times.
+//    There will always be only one integer that appears an odd number of times.
 
 //    Parameters: 
 //    Return: 
