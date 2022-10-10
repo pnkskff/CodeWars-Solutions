@@ -144,6 +144,11 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
 
+function findOdd(A) {
+  
+  return 0
+}
+
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
 
 //    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
