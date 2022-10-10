@@ -149,6 +149,8 @@ function findOdd(A) {
   return 0
 }
 
+findOdd([0,0,1,2,2,3,3])
+
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
 
 //    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
