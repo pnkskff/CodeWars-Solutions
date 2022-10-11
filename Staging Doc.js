@@ -142,8 +142,6 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    7. 
 //    8. Call Function
 
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
-
 function findOdd(A) {
   
   return 0
