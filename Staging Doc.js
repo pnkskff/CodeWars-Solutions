@@ -149,8 +149,6 @@ function findOdd(A) {
 
 findOdd([0,0,1,2,2,3,3])
 
-//    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
-
 // ------------------------------
 
 // II. FURTHER INFO:
