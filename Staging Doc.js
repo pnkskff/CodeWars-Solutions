@@ -129,9 +129,9 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    Given an array of integers, find the one that appears an odd number of times.
 //    There will always be only one integer that appears an odd number of times.
 
-//    Parameters: 
-//    Return: 
-//    Example: 
+//    Parameters: Integers, Array
+//    Return: Return the Integer that appears an Odd Numberof times.
+//    Example: [1,2,2,3,3,4,4] -> 1
 //    Pseudocode:
 //    1. Create Function
 //    2. 
