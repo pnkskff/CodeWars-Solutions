@@ -153,6 +153,8 @@ function findOdd(arr) {
   return arr.find((item) => arr.filter(el => el == item).length % 2)
 }
 
+findOdd([0,0,1,2,2,3,3])
+
 // ------------------------------
 
 // II. FURTHER INFO:
