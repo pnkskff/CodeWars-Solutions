@@ -142,15 +142,8 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    7. 
 //    8. Call Function
 
-function findOdd(A) {
-  
-  return 0
-}
-
-findOdd([0,0,1,2,2,3,3])
-
 function findOdd(arr) {
-  return arr.find((item) => arr.filter(num => num === item).length % 2)
+  return arr.find((oddItem) => arr.filter(nums => nums === oddItem).length % 2)
 }
 
 findOdd([0,0,1,2,2,3,3])
