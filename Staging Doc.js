@@ -134,11 +134,14 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    Example: [1,2,2,3,3,4,4] -> 1
 //    Pseudocode:
 //    1. Create Function
-//    2. 
-//    3. 
-//    4. 
-//    5. 
-//    6. 
+//    2. Use Find Method to locate the lone Odd Integer within Array, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/find
+//    3. Within Find, create a Variable that will stand in for Odd Integer
+//    4. Within Find, use Arrow Function to specify the operations needed to find Odd Integer, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+//    5. Within Arrow Function, use Filter Method to generate a new Array that will contain the Odd Integer, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+//    6. Within Filter,
 //    7. 
 //    8. Call Function
 
