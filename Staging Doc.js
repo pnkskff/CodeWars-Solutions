@@ -141,7 +141,9 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //    5. Within Arrow Function, use Filter Method to generate a new Array that will contain the Odd Integer, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-//    6. Within Filter,
+//    6. Within Filter, use Arrow Function again and Strict Equality Operator to specify logic that will identify Odd Integer, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
 //    7. 
 //    8. Call Function
 
