@@ -144,7 +144,8 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    6. Within Filter, use Arrow Function again and Strict Equality Operator to specify logic that will identify Odd Integer, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
-//    7. 
+//    7. Afterwards, use Length Property to sum up the number of Elements within the Array, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
 //    8. Call Function
 
 function findOdd(arr) {
