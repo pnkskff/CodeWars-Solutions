@@ -117,7 +117,7 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
@@ -130,7 +130,7 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    There will always be only one integer that appears an odd number of times.
 
 //    Parameters: Integers, Array
-//    Return: Return the Integer that appears an Odd Numberof times.
+//    Return: Return the Integer that appears an Odd Number of times.
 //    Example: [1,2,2,3,3,4,4] -> 1
 //    Pseudocode:
 //    1. Create Function
@@ -146,7 +146,10 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
 //    7. Afterwards, use Length Property to sum up the number of Elements within the Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
-//    8. Call Function
+//    8. After grabbing Sum, use Modulus Operator to divide the Array by 2, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder
+//    9. Operation in Step 8 will result in the lone Number that shows up odd amount of times
+//    10. Call Function
 
 function findOdd(arr) {
   return arr.find((oddItem) => arr.filter(nums => nums === oddItem).length % 2)
