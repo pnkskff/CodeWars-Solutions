@@ -146,7 +146,7 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
 //    7. Afterwards, use Length Property to sum up the number of Elements within the Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
-//    8. After grabbing Sum, use Modulus Operator to divide the Array by 2, see below
+//    8. After grabbing Sum of Elements within Array, use Modulus Operator to divide the Array by 2, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder
 //    9. Operation in Step 8 will result in the lone Number that shows up odd amount of times
 //    10. Call Function
