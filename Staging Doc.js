@@ -180,7 +180,6 @@ findOdd([0,0,1,2,2,3,3])
 //    Example: 
 //    Pseudocode:
 //    1. Create Function
-//    
 //    2. 
 //    3. 
 //    4. 
