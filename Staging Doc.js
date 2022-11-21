@@ -188,7 +188,7 @@ findOdd([0,0,1,2,2,3,3])
 //    7. 
 //    8. Call Function
 
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
+//    
 
 // ------------------------------
 
