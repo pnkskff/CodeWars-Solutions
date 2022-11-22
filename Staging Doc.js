@@ -160,7 +160,7 @@ findOdd([0,0,1,2,2,3,3])
 // ------------------------------
 
 //    1. KATA:
-//       a. 6 Kyu - 
+//       a. 6 Kyu - Array.diff
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -172,8 +172,9 @@ findOdd([0,0,1,2,2,3,3])
 
 //    CodeWars Solutions
 
-//    Number. Solution Number - Kata Kyu - Kata Name 
-//    Kata Story
+//    3. Solution 3 - 6 Kyu - Array.diff 
+//    Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
+//    It should remove all values from list a, which are present in list b keeping their order.
 
 //    Parameters: 
 //    Return: 
