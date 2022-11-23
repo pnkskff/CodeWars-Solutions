@@ -189,7 +189,9 @@ findOdd([0,0,1,2,2,3,3])
 //    7. 
 //    8. Call Function
 
-//    
+function arrayDiff(a, b) {
+  
+}
 
 // ------------------------------
 
