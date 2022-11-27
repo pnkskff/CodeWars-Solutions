@@ -206,6 +206,16 @@ const arrayDiff = (a, b) => a.filter(item => !b.includes(item))
 console.log(arrayDiff([1, 2], [1]))
 console.log(arrayDiff([1, 2, 2, 2, 3], [2]))
 
+// Solution 4
+function array_diff(a, b) {
+  return a.filter(e => !b.includes(e));
+}
+
+//Solution 5
+function array_diff(a, b) {
+  return a.filter(function(x) { return b.indexOf(x) == -1; });
+}
+
 // ------------------------------
 
 // II. FURTHER INFO:
