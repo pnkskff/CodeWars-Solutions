@@ -163,7 +163,7 @@ findOdd([0,0,1,2,2,3,3])
 //       a. 6 Kyu - Array.diff
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Incomplete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
