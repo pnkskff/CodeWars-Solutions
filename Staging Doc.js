@@ -176,7 +176,7 @@ findOdd([0,0,1,2,2,3,3])
 //    Your goal in this kata is to implement a difference function, which subtracts one list from another and returns the result.
 //    It should remove all values from list a, which are present in list b keeping their order.
 
-//    Parameters: Array, Number
+//    Parameters: Array, Number Only
 //    Return: Return new Array from 2 Arrays, without the Numbers that are present in each Array
 //    Example: ([1,2,3], [1,2]) -> [3]
 //             ([1,2,3], [2,3,4]) -> [4]
