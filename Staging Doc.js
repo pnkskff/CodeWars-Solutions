@@ -180,6 +180,7 @@ findOdd([0,0,1,2,2,3,3])
 //    Return: Return new Array from 2 Arrays, without the Numbers that are present in each Array
 //    Example: ([1,2,3], [1,2]) -> [3]
 //             ([1,2,3], [2,3,4]) -> [4]
+//    NOTE: Pseudocode below is applicable to Solution 
 //    Pseudocode:
 //    1. Create Function
 //    2. 
