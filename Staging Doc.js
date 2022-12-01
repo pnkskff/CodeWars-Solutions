@@ -219,6 +219,19 @@ function array_diff(a, b) {
 
 // ------------------------------
 
+//    1. KATA:
+//       a. 6 Kyu - 
+
+//    2. STATUS:
+//       a. Not submitted to CodeWars.
+//       b. Incomplete Documentation.
+//       c. Not pushed to GitHub.
+//       d. JS File not created on Desktop.
+
+//    3. SOLUTION:
+
+// ------------------------------
+
 // II. FURTHER INFO:
 
 //     1. CodeWars Solutions Repo URL: 
