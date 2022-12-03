@@ -229,7 +229,8 @@ function array_diff(a, b) {
 //       d. JS File not created on Desktop.
 
 //    3. SOLUTION:
-//
+
+//    CodeWars Solutions
 
 // ------------------------------
 
