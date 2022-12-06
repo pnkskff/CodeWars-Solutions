@@ -183,7 +183,7 @@ findOdd([0,0,1,2,2,3,3])
 //    NOTE: Pseudocode below is applicable to Solution 2 only.
 //    Pseudocode:
 //    1. Create Function
-//    2. Use Filter method
+//    2. Use Filter method to iterate through Array, see below
 //    3. 
 //    4. 
 //    5. 
