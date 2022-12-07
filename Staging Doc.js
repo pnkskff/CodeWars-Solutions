@@ -184,6 +184,7 @@ findOdd([0,0,1,2,2,3,3])
 //    Pseudocode:
 //    1. Create Function
 //    2. Use Filter method to iterate through Array, see below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 //    3. 
 //    4. 
 //    5. 
