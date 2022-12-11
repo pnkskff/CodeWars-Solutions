@@ -188,6 +188,7 @@ findOdd([0,0,1,2,2,3,3])
 //    3. Use Arrow function to specify conditions for returning a new Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //    4. 
+//
 //    5. 
 //    6. 
 //    7. 
