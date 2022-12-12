@@ -183,11 +183,11 @@ findOdd([0,0,1,2,2,3,3])
 //    NOTE: Pseudocode below is applicable to Solution 2 only.
 //    Pseudocode:
 //    1. Create Function
-//    2. Use Filter method to iterate through Array, see below
+//    2. Use Filter Method to iterate through Arrays, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-//    3. Use Arrow function to specify conditions for returning a new Array, see below
+//    3. Use Arrow Function to specify conditions for returning a new Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-//    4. 
+//    4. Within Arrow Function, use Not Operator to specify that Return should only include value if it is present within Array A, see below
 //
 //    5. 
 //    6. 
