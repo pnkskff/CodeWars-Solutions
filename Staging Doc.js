@@ -188,7 +188,7 @@ findOdd([0,0,1,2,2,3,3])
 //    3. Use Arrow Function to specify conditions for returning a new Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //    4. Within Arrow Function, use Not Operator to specify that Return should only include value if it is present within Array A, see below
-//
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
 //    5. 
 //    6. 
 //    7. 
