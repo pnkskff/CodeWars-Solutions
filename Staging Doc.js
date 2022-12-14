@@ -189,7 +189,7 @@ findOdd([0,0,1,2,2,3,3])
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //    4. Within Arrow Function, use Not Operator to specify that Return should only include value if it is present within Array A, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
-//    5. 
+//    5. Use Include Method
 //    6. 
 //    7. 
 //    8. Call Function
