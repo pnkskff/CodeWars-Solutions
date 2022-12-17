@@ -191,9 +191,7 @@ findOdd([0,0,1,2,2,3,3])
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_NOT
 //    5. Use Include Method
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
-//    6. 
-//    7. 
-//    8. Call Function
+//    6. Call Function
 
 // Solution 1
 function arrayDiff(a, b) {
