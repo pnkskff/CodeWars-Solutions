@@ -221,7 +221,7 @@ function array_diff(a, b) {
 // ------------------------------
 
 //    1. KATA:
-//       a. 6 Kyu - 
+//       a. 6 Kyu - Counting Duplicates
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
