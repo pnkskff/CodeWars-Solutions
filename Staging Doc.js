@@ -242,7 +242,7 @@ function array_diff(a, b) {
 //    Example:
 //    Pseudocode:
 //    1. Create Function
-
+//    2.
 //    8. Call Function
 
 // ------------------------------
