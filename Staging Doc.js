@@ -248,7 +248,7 @@ function array_diff(a, b) {
 //
 //    4. Use
 //
-//    5. 
+//    5. Use
 //
 //    6. 
 //    7. 
