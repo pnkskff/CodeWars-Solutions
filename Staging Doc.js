@@ -250,7 +250,7 @@ function array_diff(a, b) {
 //
 //    5. Use method, see below
 //
-//    6. Use method
+//    6. Use method, see below
 //
 //    7. Use method
 //
