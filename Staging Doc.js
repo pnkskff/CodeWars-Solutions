@@ -249,7 +249,7 @@ function array_diff(a, b) {
 //    4. Use method, see below
 //    Insert MDN link
 //    5. Use method, see below
-//
+//    Insert MDN link
 //    6. Use method, see below
 //
 //    7. Use method, see below
