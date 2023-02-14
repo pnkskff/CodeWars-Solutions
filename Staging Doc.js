@@ -243,7 +243,7 @@ function array_diff(a, b) {
 //
 //
 
-//    Parameters: Array
+//    Parameters: Numbers, Array
 //    Return: 
 //    Example:
 //    Pseudocode:
