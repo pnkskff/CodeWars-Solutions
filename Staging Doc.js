@@ -262,6 +262,8 @@ function array_diff(a, b) {
 //    Insert MDN link
 //    8. Call Function
 
+// Solution 1
+
 // ------------------------------
 
 // II. FURTHER INFO:
