@@ -239,7 +239,6 @@ function array_diff(a, b) {
 //
 //
 //
-//
 
 //    Parameters: Numbers, Array
 //    Return: 
