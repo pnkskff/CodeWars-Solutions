@@ -233,12 +233,12 @@ function array_diff(a, b) {
 
 //    CodeWars Solutions
 
-//    4. Solution 4 - 6 Kyu -  
+//    4. Solution 4 - 6 Kyu - Counting Duplicates
 //    
 //
 //
 
-//    Parameters: Array, Number Only
+//    Parameters: 
 //    Return: 
 //    Example:
 //    Pseudocode:
