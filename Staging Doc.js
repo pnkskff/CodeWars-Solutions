@@ -235,7 +235,6 @@ function array_diff(a, b) {
 
 //    4. Solution 4 - 6 Kyu - Counting Duplicates
 //    
-//
 
 //    Parameters: 
 //    Return: 
