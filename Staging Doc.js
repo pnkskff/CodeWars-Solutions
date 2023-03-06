@@ -237,11 +237,13 @@ function array_diff(a, b) {
 //    Write a function that will return the count of distinct case-insensitive alphabetic characters and numeric digits that occur more than once in the input string. 
 //    The input string can be assumed to contain only alphabets (both uppercase and lowercase) and numeric digits.
 
-//    Parameters: Alphanumeric Characters, Array
+//    Parameters: Uppercase and Lowecase Alphabet, Numbers, String
 //    Return: 
 //    Example:
-//    "abcde" -> 0 # no characters repeats more than once
-//    "aabbcde" -> 2 # 'a' and 'b'
+//    "abcde" -> 0 
+//    No characters repeats more than once
+//    "aabbcde" -> 2 
+//    'a' and 'b' repeats more than once
 //    Pseudocode:
 //    1. Create Function
 //    2. Use method, see below
