@@ -263,7 +263,7 @@ function array_diff(a, b) {
 // Solution 1
 
 function duplicateCount(text){
-  //...
+  
 }
 
 // ------------------------------
