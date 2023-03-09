@@ -244,6 +244,9 @@ function array_diff(a, b) {
 //    No characters repeats more than once
 //    "aabbcde" -> 2 
 //    'a' and 'b' repeats more than once
+//    "aA11" -> 2 
+//    'a' and '1' repeats more than once
+
 //    Pseudocode:
 //    1. Create Function
 //    2. Use method, see below
