@@ -268,6 +268,15 @@ function duplicateCount(string) {
   
 }
 
+// O characters repeat
+duplicateCount('Honda')
+
+// 1 character repeats -> A
+duplicateCount('Mazda')
+
+// 2 characters repear -> T and O
+duplicateCount('Toyota')
+
 // ------------------------------
 
 // II. FURTHER INFO:
