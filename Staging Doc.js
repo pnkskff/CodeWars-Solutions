@@ -272,8 +272,7 @@ function duplicateCount(string) {
 
 function duplicationCount(string){
   return text.toLowerCase().split('').filter((val, i, arr) => {
-    return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;
-  }).length;
+    return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;}).length;
 }
 
 // O characters repeat
