@@ -249,7 +249,7 @@ function array_diff(a, b) {
 //    Pseudocode:
 //    1. Create Function
 //    2. Use toLowerCase method to turn all characters into lower case, see below
-//    Insert MDN link
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 //    3. Use method, see below
 //    Insert MDN link
 //    4. Use method, see below
