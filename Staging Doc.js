@@ -251,7 +251,7 @@ function array_diff(a, b) {
 //    2. Use toLowerCase method to turn all characters into lower case, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 //    3. Use Split method to split the string into individual characters, see below
-//    Insert MDN link
+//    
 //    4. Use method, see below
 //    Insert MDN link
 //    5. Use method, see below
