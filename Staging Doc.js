@@ -253,7 +253,7 @@ function array_diff(a, b) {
 //    3. Use Split method to split the string into individual characters, see below
 //    
 //    4. Use method, see below
-//    Insert MDN link
+//    
 //    5. Use method, see below
 //    Insert MDN link
 //    6. Use method, see below
