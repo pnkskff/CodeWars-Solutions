@@ -248,12 +248,12 @@ function array_diff(a, b) {
 
 //    Pseudocode:
 //    1. Create Function
-//    2. Use toLowerCase method to turn all characters into lower case, see below
+//    2. Use toLowerCase method to turn all characters into lower case, will make it easier for the Function to iterate through String, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 //    3. Use Split method to split the string into individual characters, see below
-//    
-//    4. Use method, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
+//    4. Use method, see below
+//    
 //    5. Use method, see below
 //    Insert MDN link
 //    6. Use method, see below
