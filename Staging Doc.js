@@ -252,7 +252,7 @@ function array_diff(a, b) {
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 //    3. Use Split method to split the string into individual characters, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
-//    4. Use method, see below
+//    4. Use Filter method to iterate through array of characters, see below
 //    
 //    5. Use method, see below
 //    
