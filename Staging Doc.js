@@ -254,7 +254,7 @@ function array_diff(a, b) {
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 //    4. Use Filter method to iterate through array of characters, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-//    5. Use method, see below
+//    5. Within Filter, specify the parameters of the iteration, see below
 //    
 //    6. Use method, see below
 //    Insert MDN link
