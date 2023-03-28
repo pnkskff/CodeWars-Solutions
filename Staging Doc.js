@@ -257,7 +257,7 @@ function array_diff(a, b) {
 //    5. Within Filter, use an Arrow Function to further specify how the Function should treat the newly created copy of the Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 //    6. Use method, see below
-//    Insert MDN link
+//    
 //    7. Use method, see below
 //    Insert MDN link
 //    8. Call Function
