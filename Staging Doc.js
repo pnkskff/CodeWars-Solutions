@@ -254,10 +254,14 @@ function array_diff(a, b) {
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 //    4. Use Filter method to create a copy of the array of characters, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
-//    5. Within Filter, use an Arrow Function to further specify how the Function should treat the newly created copy of the Array, see below
+//    5. Within Filter, use an Arrow function to further specify how the Function should treat the newly created copy of the Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-//    6. Use method, see below
-//    
+//    6. Within Arrow function use indexOf method, Strict Inequality method, and lastIndexOf method to create the logic:
+//       Iterate through Array to find instances of character duplication
+//       See below
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf
 //    7. Use method, see below
 //    
 //    8. Call Function
