@@ -263,7 +263,7 @@ function array_diff(a, b) {
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
-//       a. indexOf method 
+//       a. indexOf method to iterate through array and find first instance of the characters within the string.
 //       b. Strict Inequality method
 //       c. lastIndexOf method
 //       d. length method
