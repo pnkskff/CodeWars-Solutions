@@ -256,17 +256,19 @@ function array_diff(a, b) {
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter
 //    5. Within Filter, use an Arrow function to further specify how the Function should treat the newly created copy of the Array, see below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-//    6. Within Arrow function use indexOf method, Strict Inequality method, lastIndexOf method, and length method to create the logic:
+//    6. Within Arrow function use indexOf method, Strict Inequality method, lastIndexOf method, Strict Equality method, and length method to create the logic:
 //       Iterate through Array to find instances of character duplication
 //       See below
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf
+//    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/length
 //       a. indexOf method to iterate through array and find first instance of the characters within the string.
-//       b. Strict Inequality method
+//       b. Strict Inequality method to compare results of indexOf and lastIndexOf, to find the characters that do not repeat within the string.
 //       c. lastIndexOf method
-//       d. length method
+//       d. 
+//       e. length method
 //    7. Call Function
 
 // Solution 1
