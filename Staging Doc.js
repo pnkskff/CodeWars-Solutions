@@ -269,7 +269,7 @@ function array_diff(a, b) {
 //       b. Strict Inequality method to compare results of indexOf and lastIndexOf, to find the characters that do repeat within the string.
 //       c. Logical AND operator to ensure that both first instance and last instance of a character is grabbed in the Return.
 //       d. lastIndexOf method to iterate through the array and find the last instance of a character within the string.
-//       e. Strict Equality method
+//       e. Strict Equality method to then instruct the function to compate the results of lastIndexOf with that of indexOf.
 //       f. length method
 //    7. Call Function
 
