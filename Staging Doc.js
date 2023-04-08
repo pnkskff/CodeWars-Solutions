@@ -276,7 +276,8 @@ function array_diff(a, b) {
 // Solution 1
 
 function duplicateCount(string) {
-  
+  return text.toLowerCase().split('').filter((val, i, arr) => {
+    return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;}).length;
 }
 
 // Primary Solution:
