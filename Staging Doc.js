@@ -334,7 +334,6 @@ duplicateCount('Toyota')
 //    INSERT DETAILS OF SOLUTIONS
 
 //    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
-//    INSERT CODE
 
 // ------------------------------
 
