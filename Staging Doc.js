@@ -164,8 +164,8 @@ findOdd([0,0,1,2,2,3,3])
 
 //    2. STATUS:
 //       a. Submitted to CodeWars.
-//       b. Incomplete Documentation.
-//       c. Not pushed to GitHub.
+//       b. Complete Documentation.
+//       c. Pushed to GitHub.
 //       d. JS File not created on Desktop.
 
 //    3. SOLUTION:
