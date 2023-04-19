@@ -225,7 +225,7 @@ function array_diff(a, b) {
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
-//       b. Incomplete Documentation.
+//       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
