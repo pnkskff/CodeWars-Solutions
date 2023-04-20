@@ -224,7 +224,7 @@ function array_diff(a, b) {
 //       a. 6 Kyu - Counting Duplicates
 
 //    2. STATUS:
-//       a. Not submitted to CodeWars.
+//       a. Submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
