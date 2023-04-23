@@ -322,7 +322,7 @@ duplicateCount('Toyota')
 //    5. 
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    6. 
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//    
 //    7. 
 //    
 //    8. Call Function
