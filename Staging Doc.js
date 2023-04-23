@@ -324,7 +324,7 @@ duplicateCount('Toyota')
 //    6. 
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    7. 
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//    
 //    8. Call Function
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
