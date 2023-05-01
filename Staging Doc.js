@@ -292,7 +292,7 @@ duplicateCount('Toyota')
 // ------------------------------
 
 //    1. KATA:
-//       a. 6 Kyu - 
+//       a. 6 Kyu - Duplicate Encoder
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
@@ -343,7 +343,7 @@ duplicateCount('Toyota')
 //     2. This Doc is for Solutions in the Staging process.
 //        Unfinished Solutions/Documentation will be put here, until Author has time to properly complete.
 
-//     3. Staging Doc last updated on: APRIL 2023
+//     3. Staging Doc last updated on: MAY 2023
 
 //     4. Author: pnkskff
 //                https://github.com/pnkskff
