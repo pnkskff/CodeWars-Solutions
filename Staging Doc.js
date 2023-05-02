@@ -280,6 +280,8 @@ function duplicateCount(string) {
     return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;}).length;
 }
 
+// * Submitting to CodeWars ends in Error, need to troubleshoot.
+
 // O characters repeat
 duplicateCount('Honda')
 
