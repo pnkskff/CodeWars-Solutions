@@ -224,7 +224,7 @@ function array_diff(a, b) {
 //       a. 6 Kyu - Counting Duplicates
 
 //    2. STATUS:
-//       a. Submitted to CodeWars.
+//       a. Not submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
@@ -314,6 +314,10 @@ duplicateCount('Toyota')
 //    Parameters: 
 //    Return: 
 //    Example: 
+//    "din"      =>  "((("
+//    "recede"   =>  "()()()"
+//    "Success"  =>  ")())())"
+//    "(( @"     =>  "))((" 
 //    Pseudocode:
 //    1. Create Function
 //    
