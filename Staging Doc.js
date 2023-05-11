@@ -274,13 +274,33 @@ function array_diff(a, b) {
 //    7. Call Function
 
 // Solution 1
+// * Submitting to CodeWars ends in Error, need to troubleshoot.
 
 function duplicateCount(string) {
   return text.toLowerCase().split('').filter((val, i, arr) => {
     return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;}).length;
 }
 
-// * Submitting to CodeWars ends in Error, need to troubleshoot.
+// O characters repeat
+duplicateCount('Honda')
+
+// 1 character repeats -> A
+duplicateCount('Mazda')
+
+// 2 characters repear -> T and O
+duplicateCount('Toyota')
+
+// Solution 2
+// * Submitting to CodeWars successful.
+
+function duplicateCount(text){
+  return text
+    .toLowerCase()
+    .split('')
+    .filter((val, i, arr) => {
+        return arr.indexOf(val) !== i && arr.lastIndexOf(val) === i;    
+    }).length;
+}
 
 // O characters repeat
 duplicateCount('Honda')
