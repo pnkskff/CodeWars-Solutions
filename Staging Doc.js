@@ -360,7 +360,7 @@ duplicateCount('Toyota')
 //    
 //    8. Call Function
 
-//    Insert working Solution below, regardless if it passes CodeWars Tests or not:
+//    
 
 // ------------------------------
 
