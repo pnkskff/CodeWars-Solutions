@@ -334,9 +334,9 @@ duplicateCount('Toyota')
 //    Parameters: Alphanumeric String, Special Characters String
 //    Return: ( if character does not repeat, ) if character/s repeat
 //    Example: 
-//    "din" ->  "((("
+//    "din" -> "((("
 //    All characters unique, resulting in only ( to display 3 times.
-//    "recede"   ->  "()()()"
+//    "recede" -> "()()()"
 //    1 character repeats 3 times, results in 3 instances of ).
 //    "Success"  ->  ")())())"
 //    2 characters repeat multiple times.
