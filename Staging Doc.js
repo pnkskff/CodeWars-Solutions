@@ -193,27 +193,23 @@ findOdd([0,0,1,2,2,3,3])
 //    5. Call Function
 
 // Solution 1
-function arrayDiff(a, b) {
-  
-}
 
-// Solution 2
 function arrayDiff(a, b) {
     // Filter entire a array, only keep the value if b does not contain that value
     return a.filter(val => !b.includes(val));
 }
 
-// Solution 3
+// Solution 2
 const arrayDiff = (a, b) => a.filter(item => !b.includes(item))
 console.log(arrayDiff([1, 2], [1]))
 console.log(arrayDiff([1, 2, 2, 2, 3], [2]))
 
-// Solution 4
+// Solution 3
 function array_diff(a, b) {
   return a.filter(e => !b.includes(e));
 }
 
-//Solution 5
+//Solution 4
 function array_diff(a, b) {
   return a.filter(function(x) { return b.indexOf(x) == -1; });
 }
