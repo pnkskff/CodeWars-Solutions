@@ -200,6 +200,7 @@ function arrayDiff(a, b) {
 }
 
 // Solution 2
+// Submitted to CodeWars
 const arrayDiff = (a, b) => a.filter(item => !b.includes(item))
 console.log(arrayDiff([1, 2], [1]))
 console.log(arrayDiff([1, 2, 2, 2, 3], [2]))
