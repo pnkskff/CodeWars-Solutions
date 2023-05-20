@@ -45,6 +45,7 @@
 //    6. Call Function
 
 // Primary Solution:
+// Submitted to CodeWars
 
 function likes(names) {
   
