@@ -194,6 +194,7 @@ findOdd([0,0,1,2,2,3,3])
 //    5. Call Function
 
 // Solution 1
+// Did not submit to CodeWars
 
 function arrayDiff(a, b) {
     // Filter entire a array, only keep the value if b does not contain that value
