@@ -81,6 +81,7 @@ likes(['Kanye', 'Kendrick', 'Drake'])
 likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 
 // Alternate Solution:
+// Not submitted to CodeWars
 
 function likes(names) {
   
