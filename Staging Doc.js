@@ -11,7 +11,7 @@
 //       a. Submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Pushed to GitHub.
-//       d. JS File not created on Desktop.
+//       d. JS File created on Desktop.
 
 //    3. SOLUTION:
 
@@ -121,7 +121,7 @@ likes(['Kanye', 'Kendrick', 'Drake', 'Kid Cudi'])
 //       a. Submitted to CodeWars.
 //       b. Complete Documentation.
 //       c. Pushed to GitHub.
-//       d. JS File not created on Desktop.
+//       d. JS File created on Desktop.
 
 //    3. SOLUTION:
 
