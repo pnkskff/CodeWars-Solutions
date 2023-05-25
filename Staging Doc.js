@@ -10,8 +10,8 @@
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
 //       b. Complete Documentation.
-//       c. Not pushed to GitHub.
-//       d. JS File not created on Desktop.
+//       c. Pushed to GitHub.
+//       d. JS File created on Desktop.
 
 //    3. SOLUTION:
 
