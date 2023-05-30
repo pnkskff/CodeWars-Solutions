@@ -36,7 +36,7 @@
 
 //    Pseudocode:
 //    1. Create Function
-//    
+//    Insert MDN link
 //    2. 
 //    
 //    3. 
