@@ -38,7 +38,7 @@
 //    1. Create Function
 //    Insert MDN link
 //    2. 
-//    
+//    Insert MDN link
 //    3. 
 //    
 //    4. 
