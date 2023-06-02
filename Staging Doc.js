@@ -42,7 +42,7 @@
 //    3. 
 //    Insert MDN link
 //    4. 
-//    
+//    Insert MDN link
 //    5. 
 //    
 //    6. 
