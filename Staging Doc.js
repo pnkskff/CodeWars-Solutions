@@ -46,7 +46,7 @@
 //    5. 
 //    Insert MDN link
 //    6. 
-//    
+//    Insert MDN link
 //    7. 
 //    
 //    8. Call Function
