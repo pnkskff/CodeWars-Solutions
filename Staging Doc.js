@@ -44,7 +44,7 @@
 //    4. 
 //    Insert MDN link
 //    5. 
-//    Insert MDN link
+//    
 //    6. 
 //    
 //    7. 
