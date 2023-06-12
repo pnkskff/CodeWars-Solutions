@@ -55,6 +55,21 @@
 
 // ------------------------------
 
+//  1. Interview Question from Urbancoolab:
+//  Reverse a String without using reverse()
+
+//  Solution
+
+function reverse1(str){
+  let r = "";
+  for(let i = str.length-1; i >= 0; i--){
+    r += str[i];
+  }
+  return r;
+}
+
+console.log(reverse1("javascript"))
+
 // ------------------------------
 
 // II. FURTHER INFO:
