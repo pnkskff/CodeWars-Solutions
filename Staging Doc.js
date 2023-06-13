@@ -71,6 +71,7 @@ function reverse1(str){
 }
 
 console.log(reverse1("javascript"))
+console.log(reverse1("hello"))
 
 // ------------------------------
 
