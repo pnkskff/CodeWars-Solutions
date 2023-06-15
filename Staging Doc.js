@@ -71,6 +71,8 @@ function reverse1(str){
 }
 
 console.log(reverse1("javascript"))
+// Log will show tpircsavaj
+
 console.log(reverse1("hello"))
 console.log(reverse1("world"))
 
