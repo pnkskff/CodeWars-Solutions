@@ -71,9 +71,11 @@ function reverse1(str){
 }
 
 console.log(reverse1("javascript"))
-// Log will show tpircsavaj
+// Log will show 'tpircsavaj'
 
 console.log(reverse1("hello"))
+// Log will show 'olleh'
+
 console.log(reverse1("world"))
 
 // ------------------------------
