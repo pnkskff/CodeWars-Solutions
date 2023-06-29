@@ -80,7 +80,7 @@ console.log(reverse1("hello"))
 // Log will show: 'olleh'
 
 console.log(reverse1("world"))
-// Log will show 'dlrow'
+// Log will show: 'dlrow'
 
 // ------------------------------
 
