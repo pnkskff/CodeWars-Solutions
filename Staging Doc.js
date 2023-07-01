@@ -73,7 +73,7 @@ function reverse1(str){
   return r;
 }
 
-console.log(reverse1("javascript"))
+console.log(reverse1('javascript'))
 // Log will show: 'tpircsavaj'
 
 console.log(reverse1("hello"))
