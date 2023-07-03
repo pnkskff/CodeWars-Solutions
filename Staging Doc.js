@@ -79,7 +79,7 @@ console.log(reverse1('javascript'))
 console.log(reverse1('hello'))
 // Log will show: 'olleh'
 
-console.log(reverse1("world"))
+console.log(reverse1('world'))
 // Log will show: 'dlrow'
 
 // ------------------------------
