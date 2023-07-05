@@ -18,8 +18,8 @@
 //    CodeWars Solutions
 
 //    5. Solution 5 - 6 Kyu - Duplicate Encoder 
-//    The goal of this exercise is to convert a string to a new string where each character in the new string is "(".
-//    If that character appears only once in the original string, or ")" if that character appears more than once in the original string. 
+//    The goal of this exercise is to convert a string to a new String where each character in the new String is "(" if that character appears only once in the original string.
+//    Or ")" if that character appears more than once in the original string. 
 //    Ignore capitalization when determining if a character is a duplicate.
 
 //    Parameters: Alphabet String, Special Characters String
