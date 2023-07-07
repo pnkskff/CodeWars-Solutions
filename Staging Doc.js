@@ -77,7 +77,7 @@ console.log(reverse1('javascript'))
 // Console Log will show: 'tpircsavaj'
 
 console.log(reverse1('hello'))
-// Log will show: 'olleh'
+// Console Log will show: 'olleh'
 
 console.log(reverse1('world'))
 // Log will show: 'dlrow'
