@@ -23,7 +23,7 @@
 //    Ignore capitalization when determining if a character is a duplicate.
 
 //    Parameters: Alphabet String, Special Characters String
-//    Return: ( if character does not repeat 
+//    Return: '(' if character does not repeat 
 //            ) if character/s repeat
 //    Example: 
 //    "din" -> "((("
