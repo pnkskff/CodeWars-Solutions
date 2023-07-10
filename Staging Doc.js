@@ -24,7 +24,7 @@
 
 //    Parameters: Alphabet String, Special Characters String
 //    Return: '(' if character does not repeat 
-//            ) if character/s repeat
+//            ')' if character/s repeat
 //    Example: 
 //    "din" -> "((("
 //    All characters unique, resulting in only ( to display 3 times.
