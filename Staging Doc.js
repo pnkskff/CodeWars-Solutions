@@ -28,7 +28,7 @@
 //    Example: 
 //    'din' -> "((("
 //    All characters unique, resulting in only ( to display 3 times.
-//    "recede" -> "()()()"
+//    'recede' -> "()()()"
 //    1 character repeats 3 times, results in 3 instances of ).
 //    "Success" -> ")())())"
 //    2 characters repeat multiple times, results in 2 instances each of )) )).
