@@ -32,7 +32,7 @@
 //    1 character repeats 3 times, results in 3 instances of ).
 //    'Success' -> ")())())"
 //    2 characters repeat multiple times, results in 2 instances each of )) )).
-//    "(( @" -> "))((" 
+//    '(( @' -> "))((" 
 //    1 character repeat twice, results in 1 instance of )).
 
 //    Pseudocode:
