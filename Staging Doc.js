@@ -22,7 +22,7 @@
 //    Or ')' if that character appears more than once in the original string. 
 //    Ignore capitalization when determining if a character is a duplicate.
 
-//    Parameters: Alphabet String, Special Characters String
+//    Parameters: String, Alphabet, Special Characters
 //    Return: '(' if character does not repeat 
 //            ')' if character/s repeat
 //    Example: 
