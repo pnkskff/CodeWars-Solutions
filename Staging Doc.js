@@ -64,7 +64,7 @@ function duplicateEncode(word){
     .join('');
 }
 
-//
+//    Seconday Solution
 
 // ------------------------------
 
