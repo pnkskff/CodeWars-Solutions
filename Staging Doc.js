@@ -64,7 +64,10 @@ function duplicateEncode(word){
     .join('');
 }
 
-//    Seconday Solution
+duplicateEncode('Success')
+//
+
+//    Secondary Solution
 
 // ------------------------------
 
