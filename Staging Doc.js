@@ -64,8 +64,8 @@ function duplicateEncode(word){
     .join('');
 }
 
-duplicateEncode('Success')
-//
+console.log(duplicateEncode('Success'))
+// Console Log will show: 6
 
 //    Secondary Solution
 
