@@ -65,7 +65,7 @@ function duplicateEncode(word){
 }
 
 console.log(duplicateEncode('Success'))
-// Console Log will show: 
+// Console Log will show: '()(()(('
 
 //    Secondary Solution
 
