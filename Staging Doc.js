@@ -68,7 +68,7 @@ console.log(duplicateEncode('Success'))
 // Console Log will show: '()(()(('
 
 console.log(duplicateEncode('Drive'))
-//
+// Console Log will show: '()()('
 
 //    Secondary Solution
 
