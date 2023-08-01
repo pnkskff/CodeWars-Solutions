@@ -70,6 +70,7 @@ console.log(duplicateEncode('Success'))
 console.log(duplicateEncode('Drive'))
 // Console Log will show: '()()('
 
+console.log(duplicateEncode('Winning'))
 //
 
 //    Secondary Solution
