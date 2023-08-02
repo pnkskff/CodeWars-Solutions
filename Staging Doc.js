@@ -71,7 +71,7 @@ console.log(duplicateEncode('Drive'))
 // Console Log will show: '()()('
 
 console.log(duplicateEncode('Winning'))
-//
+// Console Log will show:
 
 //    Secondary Solution
 
