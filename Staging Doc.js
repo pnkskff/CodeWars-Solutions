@@ -38,7 +38,7 @@
 //    Pseudocode:
 //    1. Create Function
 //    
-//    2. 
+//    2. Define Return for the input variable.
 //    
 //    3. 
 //    
