@@ -40,7 +40,7 @@
 //    
 //    2. Define Return for the input variable.
 //    
-//    3. 
+//    3. Use toLowerCase method to turn all characters to Lower Case.
 //    
 //    4. 
 //    
