@@ -44,7 +44,7 @@
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 //    4. Use Split method to then split the string into its individual characters, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
-//    5. 
+//    5. Use Map method to return new Array, see below:
 //    
 //    6. 
 //    
