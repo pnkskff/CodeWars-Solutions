@@ -46,7 +46,7 @@
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split
 //    5. Use Map method to return new Array, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
-//    6. 
+//    6. Within Map, write a function that will iterate through the Array and return the first and next instance/s of a recurring character.
 //    
 //    7. 
 //    
