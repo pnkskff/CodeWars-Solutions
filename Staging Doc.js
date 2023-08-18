@@ -49,6 +49,7 @@
 //    6. Within Map, write a function that will iterate through the Array and return the first and next instance/s of a recurring character, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf
+//    a. 
 //    7. Use Join method to put the characters back together into a String, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
 //    8. Call Function
