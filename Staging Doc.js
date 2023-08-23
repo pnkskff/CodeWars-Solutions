@@ -49,7 +49,7 @@
 //    6. Within Map, write a function that will iterate through the Array and return the first and next instance/s of a recurring character, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/lastIndexOf
-//    a. Use Equality Operator to specify that the indexOf and lastIndexOf , see below:
+//    a. Use Equality Operator to specify that the indexOf and lastIndexOf should iterate through Array and query for multiple instances of duplication, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality
 //    7. Use Join method to put the characters back together into a String, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/join
