@@ -37,8 +37,7 @@
 
 //    Pseudocode:
 //    1. Create Function
-//    2. Define Return for the input variable.
-//    
+//    2. Define Return for the input variable, this case is 'word'.
 //    3. Use toLowerCase method to turn all characters to Lower Case, see below:
 //    https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLowerCase
 //    4. Use Split method to then split the string into its individual characters, see below:
