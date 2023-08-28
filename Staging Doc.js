@@ -76,6 +76,17 @@ console.log(duplicateEncode('Winning'))
 
 // ------------------------------
 
+//    1. KATA:
+//       a. 6 Kyu - TITLE
+
+//    2. STATUS:
+//       a. Not submitted to CodeWars.
+//       b. Incomplete Documentation.
+//       c. Not pushed to GitHub.
+//       d. JS File not created on Desktop.
+
+// ------------------------------
+
 // I. INTERVIEW CODING QUESTIONS:
 
 //  1. Interview Question from Urbancoolab:
