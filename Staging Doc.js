@@ -85,7 +85,9 @@ console.log(duplicateEncode('Winning'))
 //       c. Not pushed to GitHub.
 //       d. JS File not created on Desktop.
 
+//    3. SOLUTION:
 
+//    CodeWars Solutions
 
 // ------------------------------
 
