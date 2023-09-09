@@ -95,6 +95,8 @@ console.log(duplicateEncode('Winning'))
 //
 //
 
+//    Pseudocode:
+
 // ------------------------------
 
 // I. INTERVIEW CODING QUESTIONS:
