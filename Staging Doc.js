@@ -89,8 +89,8 @@ console.log(duplicateEncode('Winning'))
 
 //    CodeWars Solutions
 
-//
-//
+//    Number. Solution Number - Kata Kyu - Kata Name 
+//    Kata Story
 //
 //
 //
