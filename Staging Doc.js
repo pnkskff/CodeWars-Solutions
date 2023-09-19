@@ -95,6 +95,9 @@ console.log(duplicateEncode('Winning'))
 //
 //
 
+//    Parameters: 
+//    Return: 
+//    Example: 
 //    Pseudocode:
 //    1. 
 //    2. 
