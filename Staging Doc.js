@@ -114,7 +114,7 @@ console.log(duplicateEncode('Winning'))
 //    7.
 //
 //    8.
-
+//
 
 // ------------------------------
 
