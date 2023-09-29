@@ -100,7 +100,7 @@ console.log(duplicateEncode('Winning'))
 //    Example: 
 //    Pseudocode:
 //    1. 
-//
+//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    2. 
 //
 //    3. 
