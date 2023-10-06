@@ -114,7 +114,7 @@ console.log(duplicateEncode('Winning'))
 //    7.
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    8.
-//
+//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:
 //    INSERT CODE
