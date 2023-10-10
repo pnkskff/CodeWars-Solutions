@@ -123,7 +123,6 @@ console.log(duplicateEncode('Winning'))
 //    
 
 //    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
-//    
 
 // ------------------------------
 
