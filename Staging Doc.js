@@ -104,7 +104,7 @@ console.log(duplicateEncode('Winning'))
 //    2. 
 //    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
 //    3. 
-//    Insert MDN/3rd Party source url within JS file for documentation on: Definitions, Properties, Methods, etc.
+//    
 //    4. 
 //    
 //    5. 
