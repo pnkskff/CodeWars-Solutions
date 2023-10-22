@@ -92,8 +92,6 @@ console.log(duplicateEncode('Winning'))
 //    Number. Solution Number - Kata Kyu - Kata Name 
 //    Kata Story
 //
-//
-//
 
 //    Parameters: 
 //    Return: 
