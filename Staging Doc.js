@@ -148,6 +148,8 @@ console.log(reverse1('hello'))
 console.log(reverse1('world'))
 // Console Log will show: 'dlrow'
 
+//  Solution 2
+
 // ------------------------------
 
 // II. FURTHER INFO:
