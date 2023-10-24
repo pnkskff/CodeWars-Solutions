@@ -118,7 +118,7 @@ console.log(duplicateEncode('Winning'))
 
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
 
-//    If applicable, insert Alternate Solution or Solution that works with CodeWars below:
+//    
 
 // ------------------------------
 
