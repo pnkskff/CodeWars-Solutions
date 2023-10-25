@@ -118,8 +118,6 @@ console.log(duplicateEncode('Winning'))
 
 //    If applicable, insert Troubleshooting Steps below, if User is able to fix Code to get a Pass in CodeWars:
 
-//    
-
 // ------------------------------
 
 // I. INTERVIEW CODING QUESTIONS:
