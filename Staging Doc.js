@@ -104,7 +104,6 @@ console.log(duplicateEncode('Winning'))
 //    6.
 //    7.
 //    8.
-//    
 
 //    Insert working Solution below, regardless if it passes CodeWars Tests or not:   
 
