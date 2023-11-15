@@ -77,7 +77,7 @@ console.log(duplicateEncode('Winning'))
 // ------------------------------
 
 //    1. KATA:
-//       a. 6 Kyu - TITLE
+//       a. 6 Kyu - INSERT TITLE
 
 //    2. STATUS:
 //       a. Not submitted to CodeWars.
