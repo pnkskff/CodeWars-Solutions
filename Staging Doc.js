@@ -115,6 +115,8 @@ console.log(duplicateEncode('Winning'))
 //
 //
 
+//    Secondary Solution   
+
 // ------------------------------
 
 // I. INTERVIEW CODING QUESTIONS:
