@@ -107,6 +107,7 @@ console.log(duplicateEncode('Winning'))
 //
 //
 //
+//
 
 //    Parameters: 
 //    Return: 
