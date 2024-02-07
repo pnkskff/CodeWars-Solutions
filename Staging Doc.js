@@ -138,7 +138,7 @@ console.log(duplicateEncode('Winning'))
 //
 //    12. 
 //
-//
+//    13.
 
 //    Primary Solution   
 //
