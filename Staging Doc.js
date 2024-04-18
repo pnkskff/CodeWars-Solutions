@@ -76,7 +76,6 @@ console.log(duplicateEncode('Winning'))
 
 //    Secondary Solution
 
-
 // ------------------------------
 
 //    1. KATA:
