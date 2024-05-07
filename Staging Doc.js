@@ -95,6 +95,7 @@ console.log(duplicateEncode('Winning'))
 //    Kata Story
 //
 //
+//
 
 //    Parameters: 
 //    Return: 
