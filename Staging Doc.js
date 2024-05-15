@@ -151,8 +151,6 @@ console.log(reverse1('hello'))
 console.log(reverse1('world'))
 // Console Log will show: 'dlrow'
 
-//  
-
 // ------------------------------
 
 // II. FURTHER INFO:
