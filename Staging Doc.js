@@ -54,6 +54,7 @@
 //    8. Call Function
 
 //    Primary Solution
+//
 
 
 function duplicateEncode(word){
