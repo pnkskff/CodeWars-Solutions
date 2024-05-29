@@ -55,7 +55,7 @@
 
 //    Primary Solution
 //
-
+//
 
 function duplicateEncode(word){
   return word
