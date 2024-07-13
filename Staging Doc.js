@@ -184,6 +184,7 @@ console.log(duplicateEncode('Winning'))
 //  https://stackoverflow.com/questions/45691069/reverse-a-string-in-javascript-without-using-any-inbuilt-function#:~:text=function%20reverse1(str)%7B%20var,abcdef%22%3B%20reverse1(str)%3B
 
 //  Solution 1
+//
 
 function reverse1(str){
   let r = "";
