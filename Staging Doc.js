@@ -193,6 +193,7 @@ console.log(duplicateEncode('Winning'))
 //  Solution 1
 //
 //
+//
 
 function reverse1(str){
   let r = "";
